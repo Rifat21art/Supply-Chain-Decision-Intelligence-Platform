@@ -1,0 +1,865 @@
+year,month,route_id,route_name,congestion_index,supplier_reliability,weight_class,base_transit_days,cost_index,actual_transit_days,delay_days,delay_flag
+2023,1,colombo_express,Colombo Express,0.9,0.78,heavy,17,1.0,17.4,0.4,0
+2023,1,colombo_express,Colombo Express,0.9,0.87,heavy,17,1.0,17.5,0.5,0
+2023,1,colombo_express,Colombo Express,0.9,0.72,heavy,17,1.0,16.8,-0.2,0
+2023,1,colombo_express,Colombo Express,0.9,0.74,light,17,1.0,16.8,-0.2,0
+2023,1,colombo_express,Colombo Express,0.9,0.78,standard,17,1.0,15.3,-1.7,0
+2023,1,colombo_express,Colombo Express,0.9,0.57,heavy,17,1.0,15.0,-2.0,0
+2023,1,singapore_transship,Singapore Transship,1.25,0.89,heavy,21,1.08,23.5,2.5,0
+2023,1,singapore_transship,Singapore Transship,1.25,0.62,standard,21,1.08,22.7,1.7,0
+2023,1,singapore_transship,Singapore Transship,1.25,0.55,standard,21,1.08,23.7,2.7,0
+2023,1,singapore_transship,Singapore Transship,1.25,0.74,heavy,21,1.08,27.3,6.3,1
+2023,1,singapore_transship,Singapore Transship,1.25,0.58,light,21,1.08,27.3,6.3,1
+2023,1,singapore_transship,Singapore Transship,1.25,0.77,standard,21,1.08,24.0,3.0,0
+2023,1,port_klang_link,Port Klang Link,1.15,0.61,standard,19,1.04,24.0,5.0,0
+2023,1,port_klang_link,Port Klang Link,1.15,0.77,heavy,19,1.04,22.1,3.1,0
+2023,1,port_klang_link,Port Klang Link,1.15,0.71,standard,19,1.04,22.4,3.4,0
+2023,1,port_klang_link,Port Klang Link,1.15,0.63,light,19,1.04,17.4,-1.6,0
+2023,1,port_klang_link,Port Klang Link,1.15,0.8,standard,19,1.04,20.8,1.8,0
+2023,1,port_klang_link,Port Klang Link,1.15,0.76,light,19,1.04,19.2,0.2,0
+2023,1,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.75,light,15,1.15,13.4,-1.6,0
+2023,1,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.69,light,15,1.15,16.1,1.1,0
+2023,1,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.87,standard,15,1.15,15.2,0.2,0
+2023,1,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.56,standard,15,1.15,13.0,-2.0,0
+2023,1,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.91,light,15,1.15,18.3,3.3,0
+2023,1,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.68,standard,15,1.15,16.8,1.8,0
+2023,2,colombo_express,Colombo Express,0.85,0.74,standard,17,1.0,15.7,-1.3,0
+2023,2,colombo_express,Colombo Express,0.85,0.55,heavy,17,1.0,19.8,2.8,0
+2023,2,colombo_express,Colombo Express,0.85,0.7,heavy,17,1.0,17.7,0.7,0
+2023,2,colombo_express,Colombo Express,0.85,0.74,heavy,17,1.0,18.8,1.8,0
+2023,2,colombo_express,Colombo Express,0.85,0.68,light,17,1.0,16.4,-0.6,0
+2023,2,colombo_express,Colombo Express,0.85,0.68,light,17,1.0,19.7,2.7,0
+2023,2,singapore_transship,Singapore Transship,1.3,0.91,light,21,1.08,21.8,0.8,0
+2023,2,singapore_transship,Singapore Transship,1.3,0.76,standard,21,1.08,23.0,2.0,0
+2023,2,singapore_transship,Singapore Transship,1.3,0.89,light,21,1.08,24.8,3.8,0
+2023,2,singapore_transship,Singapore Transship,1.3,0.64,light,21,1.08,23.7,2.7,0
+2023,2,singapore_transship,Singapore Transship,1.3,0.78,heavy,21,1.08,22.4,1.4,0
+2023,2,singapore_transship,Singapore Transship,1.3,0.57,heavy,21,1.08,23.8,2.8,0
+2023,2,port_klang_link,Port Klang Link,1.2,0.59,heavy,19,1.04,22.3,3.3,0
+2023,2,port_klang_link,Port Klang Link,1.2,0.66,standard,19,1.04,21.9,2.9,0
+2023,2,port_klang_link,Port Klang Link,1.2,0.79,light,19,1.04,20.0,1.0,0
+2023,2,port_klang_link,Port Klang Link,1.2,0.85,light,19,1.04,19.8,0.8,0
+2023,2,port_klang_link,Port Klang Link,1.2,0.85,heavy,19,1.04,23.1,4.1,0
+2023,2,port_klang_link,Port Klang Link,1.2,0.56,heavy,19,1.04,23.7,4.7,0
+2023,2,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.62,heavy,15,1.15,18.4,3.4,0
+2023,2,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.8,standard,15,1.15,16.6,1.6,0
+2023,2,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.75,standard,15,1.15,13.7,-1.3,0
+2023,2,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.76,heavy,15,1.15,19.6,4.6,0
+2023,2,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.87,light,15,1.15,13.1,-1.9,0
+2023,2,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.78,light,15,1.15,13.0,-2.0,0
+2023,3,colombo_express,Colombo Express,0.9,0.84,light,17,1.0,15.7,-1.3,0
+2023,3,colombo_express,Colombo Express,0.9,0.76,light,17,1.0,15.0,-2.0,0
+2023,3,colombo_express,Colombo Express,0.9,0.79,light,17,1.0,16.1,-0.9,0
+2023,3,colombo_express,Colombo Express,0.9,0.82,standard,17,1.0,16.4,-0.6,0
+2023,3,colombo_express,Colombo Express,0.9,0.56,standard,17,1.0,19.6,2.6,0
+2023,3,colombo_express,Colombo Express,0.9,0.69,standard,17,1.0,17.0,0.0,0
+2023,3,singapore_transship,Singapore Transship,1.0,0.59,standard,21,1.08,24.1,3.1,0
+2023,3,singapore_transship,Singapore Transship,1.0,0.69,standard,21,1.08,19.0,-2.0,0
+2023,3,singapore_transship,Singapore Transship,1.0,0.64,light,21,1.08,21.0,0.0,0
+2023,3,singapore_transship,Singapore Transship,1.0,0.76,light,21,1.08,21.0,0.0,0
+2023,3,singapore_transship,Singapore Transship,1.0,0.6,standard,21,1.08,22.4,1.4,0
+2023,3,singapore_transship,Singapore Transship,1.0,0.65,light,21,1.08,20.6,-0.4,0
+2023,3,port_klang_link,Port Klang Link,0.95,0.62,light,19,1.04,17.2,-1.8,0
+2023,3,port_klang_link,Port Klang Link,0.95,0.59,standard,19,1.04,21.6,2.6,0
+2023,3,port_klang_link,Port Klang Link,0.95,0.8,standard,19,1.04,19.6,0.6,0
+2023,3,port_klang_link,Port Klang Link,0.95,0.62,standard,19,1.04,21.9,2.9,0
+2023,3,port_klang_link,Port Klang Link,0.95,0.88,standard,19,1.04,18.8,-0.2,0
+2023,3,port_klang_link,Port Klang Link,0.95,0.82,light,19,1.04,20.7,1.7,0
+2023,3,jebel_ali_gulf,Jebel Ali Gulf Route,0.9,0.84,standard,15,1.15,14.9,-0.1,0
+2023,3,jebel_ali_gulf,Jebel Ali Gulf Route,0.9,0.83,standard,15,1.15,15.3,0.3,0
+2023,3,jebel_ali_gulf,Jebel Ali Gulf Route,0.9,0.71,standard,15,1.15,15.9,0.9,0
+2023,3,jebel_ali_gulf,Jebel Ali Gulf Route,0.9,0.75,light,15,1.15,16.4,1.4,0
+2023,3,jebel_ali_gulf,Jebel Ali Gulf Route,0.9,0.89,standard,15,1.15,13.0,-2.0,0
+2023,3,jebel_ali_gulf,Jebel Ali Gulf Route,0.9,0.6,standard,15,1.15,15.1,0.1,0
+2023,4,colombo_express,Colombo Express,0.95,0.6,standard,17,1.0,18.5,1.5,0
+2023,4,colombo_express,Colombo Express,0.95,0.76,light,17,1.0,15.7,-1.3,0
+2023,4,colombo_express,Colombo Express,0.95,0.89,heavy,17,1.0,16.3,-0.7,0
+2023,4,colombo_express,Colombo Express,0.95,0.56,light,17,1.0,19.4,2.4,0
+2023,4,colombo_express,Colombo Express,0.95,0.72,heavy,17,1.0,19.7,2.7,0
+2023,4,colombo_express,Colombo Express,0.95,0.64,light,17,1.0,15.0,-2.0,0
+2023,4,singapore_transship,Singapore Transship,0.95,0.74,heavy,21,1.08,21.4,0.4,0
+2023,4,singapore_transship,Singapore Transship,0.95,0.62,light,21,1.08,21.5,0.5,0
+2023,4,singapore_transship,Singapore Transship,0.95,0.65,heavy,21,1.08,22.6,1.6,0
+2023,4,singapore_transship,Singapore Transship,0.95,0.84,standard,21,1.08,21.3,0.3,0
+2023,4,singapore_transship,Singapore Transship,0.95,0.59,standard,21,1.08,23.1,2.1,0
+2023,4,singapore_transship,Singapore Transship,0.95,0.63,heavy,21,1.08,22.1,1.1,0
+2023,4,port_klang_link,Port Klang Link,0.9,0.56,heavy,19,1.04,19.1,0.1,0
+2023,4,port_klang_link,Port Klang Link,0.9,0.72,light,19,1.04,17.6,-1.4,0
+2023,4,port_klang_link,Port Klang Link,0.9,0.83,heavy,19,1.04,22.0,3.0,0
+2023,4,port_klang_link,Port Klang Link,0.9,0.66,heavy,19,1.04,20.3,1.3,0
+2023,4,port_klang_link,Port Klang Link,0.9,0.89,heavy,19,1.04,19.9,0.9,0
+2023,4,port_klang_link,Port Klang Link,0.9,0.74,standard,19,1.04,18.8,-0.2,0
+2023,4,jebel_ali_gulf,Jebel Ali Gulf Route,1.0,0.85,light,15,1.15,15.3,0.3,0
+2023,4,jebel_ali_gulf,Jebel Ali Gulf Route,1.0,0.9,light,15,1.15,15.5,0.5,0
+2023,4,jebel_ali_gulf,Jebel Ali Gulf Route,1.0,0.86,heavy,15,1.15,15.4,0.4,0
+2023,4,jebel_ali_gulf,Jebel Ali Gulf Route,1.0,0.83,standard,15,1.15,15.2,0.2,0
+2023,4,jebel_ali_gulf,Jebel Ali Gulf Route,1.0,0.9,heavy,15,1.15,15.5,0.5,0
+2023,4,jebel_ali_gulf,Jebel Ali Gulf Route,1.0,0.82,standard,15,1.15,16.0,1.0,0
+2023,5,colombo_express,Colombo Express,1.1,0.89,standard,17,1.0,17.3,0.3,0
+2023,5,colombo_express,Colombo Express,1.1,0.58,light,17,1.0,16.0,-1.0,0
+2023,5,colombo_express,Colombo Express,1.1,0.88,standard,17,1.0,17.2,0.2,0
+2023,5,colombo_express,Colombo Express,1.1,0.75,light,17,1.0,20.5,3.5,0
+2023,5,colombo_express,Colombo Express,1.1,0.85,standard,17,1.0,19.2,2.2,0
+2023,5,colombo_express,Colombo Express,1.1,0.7,heavy,17,1.0,17.7,0.7,0
+2023,5,singapore_transship,Singapore Transship,0.9,0.83,heavy,21,1.08,22.3,1.3,0
+2023,5,singapore_transship,Singapore Transship,0.9,0.86,standard,21,1.08,19.0,-2.0,0
+2023,5,singapore_transship,Singapore Transship,0.9,0.56,heavy,21,1.08,21.3,0.3,0
+2023,5,singapore_transship,Singapore Transship,0.9,0.8,standard,21,1.08,20.3,-0.7,0
+2023,5,singapore_transship,Singapore Transship,0.9,0.62,standard,21,1.08,20.3,-0.7,0
+2023,5,singapore_transship,Singapore Transship,0.9,0.72,light,21,1.08,20.8,-0.2,0
+2023,5,port_klang_link,Port Klang Link,0.9,0.88,heavy,19,1.04,23.3,4.3,0
+2023,5,port_klang_link,Port Klang Link,0.9,0.8,standard,19,1.04,17.7,-1.3,0
+2023,5,port_klang_link,Port Klang Link,0.9,0.73,light,19,1.04,17.9,-1.1,0
+2023,5,port_klang_link,Port Klang Link,0.9,0.73,light,19,1.04,17.0,-2.0,0
+2023,5,port_klang_link,Port Klang Link,0.9,0.75,light,19,1.04,18.8,-0.2,0
+2023,5,port_klang_link,Port Klang Link,0.9,0.57,light,19,1.04,21.3,2.3,0
+2023,5,jebel_ali_gulf,Jebel Ali Gulf Route,1.2,0.57,light,15,1.15,17.1,2.1,0
+2023,5,jebel_ali_gulf,Jebel Ali Gulf Route,1.2,0.79,heavy,15,1.15,17.7,2.7,0
+2023,5,jebel_ali_gulf,Jebel Ali Gulf Route,1.2,0.78,light,15,1.15,15.8,0.8,0
+2023,5,jebel_ali_gulf,Jebel Ali Gulf Route,1.2,0.64,light,15,1.15,16.5,1.5,0
+2023,5,jebel_ali_gulf,Jebel Ali Gulf Route,1.2,0.81,heavy,15,1.15,17.2,2.2,0
+2023,5,jebel_ali_gulf,Jebel Ali Gulf Route,1.2,0.73,light,15,1.15,16.5,1.5,0
+2023,6,colombo_express,Colombo Express,1.4,0.83,standard,17,1.0,18.2,1.2,0
+2023,6,colombo_express,Colombo Express,1.4,0.73,heavy,17,1.0,21.3,4.3,0
+2023,6,colombo_express,Colombo Express,1.4,0.6,heavy,17,1.0,19.7,2.7,0
+2023,6,colombo_express,Colombo Express,1.4,0.56,light,17,1.0,18.0,1.0,0
+2023,6,colombo_express,Colombo Express,1.4,0.56,light,17,1.0,19.3,2.3,0
+2023,6,colombo_express,Colombo Express,1.4,0.62,standard,17,1.0,21.9,4.9,0
+2023,6,singapore_transship,Singapore Transship,0.95,0.85,heavy,21,1.08,23.4,2.4,0
+2023,6,singapore_transship,Singapore Transship,0.95,0.57,light,21,1.08,22.6,1.6,0
+2023,6,singapore_transship,Singapore Transship,0.95,0.63,light,21,1.08,22.5,1.5,0
+2023,6,singapore_transship,Singapore Transship,0.95,0.56,heavy,21,1.08,21.1,0.1,0
+2023,6,singapore_transship,Singapore Transship,0.95,0.78,heavy,21,1.08,22.8,1.8,0
+2023,6,singapore_transship,Singapore Transship,0.95,0.77,standard,21,1.08,21.2,0.2,0
+2023,6,port_klang_link,Port Klang Link,0.95,0.82,light,19,1.04,19.3,0.3,0
+2023,6,port_klang_link,Port Klang Link,0.95,0.67,heavy,19,1.04,21.4,2.4,0
+2023,6,port_klang_link,Port Klang Link,0.95,0.66,heavy,19,1.04,21.0,2.0,0
+2023,6,port_klang_link,Port Klang Link,0.95,0.8,standard,19,1.04,19.3,0.3,0
+2023,6,port_klang_link,Port Klang Link,0.95,0.84,heavy,19,1.04,19.0,0.0,0
+2023,6,port_klang_link,Port Klang Link,0.95,0.63,light,19,1.04,20.5,1.5,0
+2023,6,jebel_ali_gulf,Jebel Ali Gulf Route,1.45,0.81,standard,15,1.15,19.6,4.6,0
+2023,6,jebel_ali_gulf,Jebel Ali Gulf Route,1.45,0.56,light,15,1.15,21.8,6.8,1
+2023,6,jebel_ali_gulf,Jebel Ali Gulf Route,1.45,0.65,heavy,15,1.15,20.5,5.5,1
+2023,6,jebel_ali_gulf,Jebel Ali Gulf Route,1.45,0.72,heavy,15,1.15,20.9,5.9,1
+2023,6,jebel_ali_gulf,Jebel Ali Gulf Route,1.45,0.79,light,15,1.15,17.2,2.2,0
+2023,6,jebel_ali_gulf,Jebel Ali Gulf Route,1.45,0.69,heavy,15,1.15,21.4,6.4,1
+2023,7,colombo_express,Colombo Express,1.5,0.63,heavy,17,1.0,20.0,3.0,0
+2023,7,colombo_express,Colombo Express,1.5,0.72,heavy,17,1.0,21.3,4.3,0
+2023,7,colombo_express,Colombo Express,1.5,0.63,standard,17,1.0,19.5,2.5,0
+2023,7,colombo_express,Colombo Express,1.5,0.63,light,17,1.0,23.2,6.2,1
+2023,7,colombo_express,Colombo Express,1.5,0.76,standard,17,1.0,20.9,3.9,0
+2023,7,colombo_express,Colombo Express,1.5,0.73,standard,17,1.0,24.3,7.3,1
+2023,7,singapore_transship,Singapore Transship,1.0,0.87,heavy,21,1.08,24.6,3.6,0
+2023,7,singapore_transship,Singapore Transship,1.0,0.83,heavy,21,1.08,22.8,1.8,0
+2023,7,singapore_transship,Singapore Transship,1.0,0.72,heavy,21,1.08,21.1,0.1,0
+2023,7,singapore_transship,Singapore Transship,1.0,0.7,standard,21,1.08,20.8,-0.2,0
+2023,7,singapore_transship,Singapore Transship,1.0,0.9,standard,21,1.08,23.0,2.0,0
+2023,7,singapore_transship,Singapore Transship,1.0,0.83,standard,21,1.08,21.2,0.2,0
+2023,7,port_klang_link,Port Klang Link,0.95,0.62,standard,19,1.04,23.6,4.6,0
+2023,7,port_klang_link,Port Klang Link,0.95,0.85,standard,19,1.04,22.7,3.7,0
+2023,7,port_klang_link,Port Klang Link,0.95,0.7,standard,19,1.04,20.9,1.9,0
+2023,7,port_klang_link,Port Klang Link,0.95,0.76,light,19,1.04,20.2,1.2,0
+2023,7,port_klang_link,Port Klang Link,0.95,0.59,standard,19,1.04,20.2,1.2,0
+2023,7,port_klang_link,Port Klang Link,0.95,0.57,light,19,1.04,17.0,-2.0,0
+2023,7,jebel_ali_gulf,Jebel Ali Gulf Route,1.55,0.89,heavy,15,1.15,19.3,4.3,0
+2023,7,jebel_ali_gulf,Jebel Ali Gulf Route,1.55,0.83,light,15,1.15,21.0,6.0,1
+2023,7,jebel_ali_gulf,Jebel Ali Gulf Route,1.55,0.91,heavy,15,1.15,17.8,2.8,0
+2023,7,jebel_ali_gulf,Jebel Ali Gulf Route,1.55,0.84,heavy,15,1.15,20.3,5.3,1
+2023,7,jebel_ali_gulf,Jebel Ali Gulf Route,1.55,0.72,standard,15,1.15,20.0,5.0,0
+2023,7,jebel_ali_gulf,Jebel Ali Gulf Route,1.55,0.66,standard,15,1.15,19.0,4.0,0
+2023,8,colombo_express,Colombo Express,1.45,0.72,light,17,1.0,20.0,3.0,0
+2023,8,colombo_express,Colombo Express,1.45,0.67,standard,17,1.0,21.5,4.5,0
+2023,8,colombo_express,Colombo Express,1.45,0.83,heavy,17,1.0,22.5,5.5,1
+2023,8,colombo_express,Colombo Express,1.45,0.82,standard,17,1.0,21.4,4.4,0
+2023,8,colombo_express,Colombo Express,1.45,0.77,heavy,17,1.0,22.0,5.0,0
+2023,8,colombo_express,Colombo Express,1.45,0.6,heavy,17,1.0,24.1,7.1,1
+2023,8,singapore_transship,Singapore Transship,1.0,0.89,heavy,21,1.08,21.2,0.2,0
+2023,8,singapore_transship,Singapore Transship,1.0,0.56,light,21,1.08,19.2,-1.8,0
+2023,8,singapore_transship,Singapore Transship,1.0,0.76,heavy,21,1.08,21.1,0.1,0
+2023,8,singapore_transship,Singapore Transship,1.0,0.92,standard,21,1.08,20.2,-0.8,0
+2023,8,singapore_transship,Singapore Transship,1.0,0.84,heavy,21,1.08,19.6,-1.4,0
+2023,8,singapore_transship,Singapore Transship,1.0,0.9,heavy,21,1.08,22.7,1.7,0
+2023,8,port_klang_link,Port Klang Link,0.95,0.7,heavy,19,1.04,21.6,2.6,0
+2023,8,port_klang_link,Port Klang Link,0.95,0.69,standard,19,1.04,20.4,1.4,0
+2023,8,port_klang_link,Port Klang Link,0.95,0.83,light,19,1.04,19.7,0.7,0
+2023,8,port_klang_link,Port Klang Link,0.95,0.64,standard,19,1.04,20.0,1.0,0
+2023,8,port_klang_link,Port Klang Link,0.95,0.69,standard,19,1.04,17.0,-2.0,0
+2023,8,port_klang_link,Port Klang Link,0.95,0.81,light,19,1.04,19.0,0.0,0
+2023,8,jebel_ali_gulf,Jebel Ali Gulf Route,1.5,0.56,heavy,15,1.15,22.6,7.6,1
+2023,8,jebel_ali_gulf,Jebel Ali Gulf Route,1.5,0.78,standard,15,1.15,18.5,3.5,0
+2023,8,jebel_ali_gulf,Jebel Ali Gulf Route,1.5,0.58,standard,15,1.15,17.7,2.7,0
+2023,8,jebel_ali_gulf,Jebel Ali Gulf Route,1.5,0.92,heavy,15,1.15,17.4,2.4,0
+2023,8,jebel_ali_gulf,Jebel Ali Gulf Route,1.5,0.9,heavy,15,1.15,19.6,4.6,0
+2023,8,jebel_ali_gulf,Jebel Ali Gulf Route,1.5,0.67,light,15,1.15,17.2,2.2,0
+2023,9,colombo_express,Colombo Express,1.3,0.75,light,17,1.0,21.4,4.4,0
+2023,9,colombo_express,Colombo Express,1.3,0.56,light,17,1.0,22.2,5.2,1
+2023,9,colombo_express,Colombo Express,1.3,0.81,heavy,17,1.0,19.9,2.9,0
+2023,9,colombo_express,Colombo Express,1.3,0.79,light,17,1.0,18.1,1.1,0
+2023,9,colombo_express,Colombo Express,1.3,0.63,heavy,17,1.0,23.0,6.0,1
+2023,9,colombo_express,Colombo Express,1.3,0.61,light,17,1.0,21.8,4.8,0
+2023,9,singapore_transship,Singapore Transship,1.0,0.58,standard,21,1.08,25.0,4.0,0
+2023,9,singapore_transship,Singapore Transship,1.0,0.59,heavy,21,1.08,24.1,3.1,0
+2023,9,singapore_transship,Singapore Transship,1.0,0.85,heavy,21,1.08,21.7,0.7,0
+2023,9,singapore_transship,Singapore Transship,1.0,0.57,standard,21,1.08,20.8,-0.2,0
+2023,9,singapore_transship,Singapore Transship,1.0,0.84,light,21,1.08,19.0,-2.0,0
+2023,9,singapore_transship,Singapore Transship,1.0,0.91,standard,21,1.08,21.0,0.0,0
+2023,9,port_klang_link,Port Klang Link,0.95,0.67,standard,19,1.04,17.7,-1.3,0
+2023,9,port_klang_link,Port Klang Link,0.95,0.81,standard,19,1.04,20.0,1.0,0
+2023,9,port_klang_link,Port Klang Link,0.95,0.67,heavy,19,1.04,21.4,2.4,0
+2023,9,port_klang_link,Port Klang Link,0.95,0.57,light,19,1.04,20.8,1.8,0
+2023,9,port_klang_link,Port Klang Link,0.95,0.74,light,19,1.04,18.4,-0.6,0
+2023,9,port_klang_link,Port Klang Link,0.95,0.6,standard,19,1.04,21.8,2.8,0
+2023,9,jebel_ali_gulf,Jebel Ali Gulf Route,1.2,0.78,heavy,15,1.15,19.9,4.9,0
+2023,9,jebel_ali_gulf,Jebel Ali Gulf Route,1.2,0.56,heavy,15,1.15,19.9,4.9,0
+2023,9,jebel_ali_gulf,Jebel Ali Gulf Route,1.2,0.91,standard,15,1.15,15.4,0.4,0
+2023,9,jebel_ali_gulf,Jebel Ali Gulf Route,1.2,0.57,standard,15,1.15,16.1,1.1,0
+2023,9,jebel_ali_gulf,Jebel Ali Gulf Route,1.2,0.69,heavy,15,1.15,20.0,5.0,0
+2023,9,jebel_ali_gulf,Jebel Ali Gulf Route,1.2,0.89,standard,15,1.15,18.4,3.4,0
+2023,10,colombo_express,Colombo Express,1.05,0.87,heavy,17,1.0,21.5,4.5,0
+2023,10,colombo_express,Colombo Express,1.05,0.67,light,17,1.0,19.2,2.2,0
+2023,10,colombo_express,Colombo Express,1.05,0.85,heavy,17,1.0,19.5,2.5,0
+2023,10,colombo_express,Colombo Express,1.05,0.65,standard,17,1.0,18.9,1.9,0
+2023,10,colombo_express,Colombo Express,1.05,0.91,standard,17,1.0,18.4,1.4,0
+2023,10,colombo_express,Colombo Express,1.05,0.91,heavy,17,1.0,18.4,1.4,0
+2023,10,singapore_transship,Singapore Transship,1.05,0.78,standard,21,1.08,23.6,2.6,0
+2023,10,singapore_transship,Singapore Transship,1.05,0.6,standard,21,1.08,24.4,3.4,0
+2023,10,singapore_transship,Singapore Transship,1.05,0.6,heavy,21,1.08,21.3,0.3,0
+2023,10,singapore_transship,Singapore Transship,1.05,0.77,light,21,1.08,20.1,-0.9,0
+2023,10,singapore_transship,Singapore Transship,1.05,0.8,standard,21,1.08,22.5,1.5,0
+2023,10,singapore_transship,Singapore Transship,1.05,0.64,light,21,1.08,21.1,0.1,0
+2023,10,port_klang_link,Port Klang Link,1.0,0.7,heavy,19,1.04,17.8,-1.2,0
+2023,10,port_klang_link,Port Klang Link,1.0,0.6,standard,19,1.04,18.3,-0.7,0
+2023,10,port_klang_link,Port Klang Link,1.0,0.9,standard,19,1.04,17.0,-2.0,0
+2023,10,port_klang_link,Port Klang Link,1.0,0.72,light,19,1.04,21.6,2.6,0
+2023,10,port_klang_link,Port Klang Link,1.0,0.85,standard,19,1.04,18.7,-0.3,0
+2023,10,port_klang_link,Port Klang Link,1.0,0.78,heavy,19,1.04,20.9,1.9,0
+2023,10,jebel_ali_gulf,Jebel Ali Gulf Route,0.95,0.74,heavy,15,1.15,18.0,3.0,0
+2023,10,jebel_ali_gulf,Jebel Ali Gulf Route,0.95,0.65,light,15,1.15,15.1,0.1,0
+2023,10,jebel_ali_gulf,Jebel Ali Gulf Route,0.95,0.7,heavy,15,1.15,14.5,-0.5,0
+2023,10,jebel_ali_gulf,Jebel Ali Gulf Route,0.95,0.74,heavy,15,1.15,14.6,-0.4,0
+2023,10,jebel_ali_gulf,Jebel Ali Gulf Route,0.95,0.66,heavy,15,1.15,15.8,0.8,0
+2023,10,jebel_ali_gulf,Jebel Ali Gulf Route,0.95,0.9,heavy,15,1.15,14.1,-0.9,0
+2023,11,colombo_express,Colombo Express,1.35,0.77,standard,17,1.0,19.2,2.2,0
+2023,11,colombo_express,Colombo Express,1.35,0.62,light,17,1.0,18.1,1.1,0
+2023,11,colombo_express,Colombo Express,1.35,0.85,standard,17,1.0,19.9,2.9,0
+2023,11,colombo_express,Colombo Express,1.35,0.69,heavy,17,1.0,20.2,3.2,0
+2023,11,colombo_express,Colombo Express,1.35,0.79,light,17,1.0,20.0,3.0,0
+2023,11,colombo_express,Colombo Express,1.35,0.58,light,17,1.0,19.0,2.0,0
+2023,11,singapore_transship,Singapore Transship,1.1,0.6,heavy,21,1.08,24.9,3.9,0
+2023,11,singapore_transship,Singapore Transship,1.1,0.87,standard,21,1.08,25.7,4.7,0
+2023,11,singapore_transship,Singapore Transship,1.1,0.72,light,21,1.08,20.3,-0.7,0
+2023,11,singapore_transship,Singapore Transship,1.1,0.88,heavy,21,1.08,22.9,1.9,0
+2023,11,singapore_transship,Singapore Transship,1.1,0.81,heavy,21,1.08,21.0,0.0,0
+2023,11,singapore_transship,Singapore Transship,1.1,0.78,light,21,1.08,23.5,2.5,0
+2023,11,port_klang_link,Port Klang Link,1.05,0.68,heavy,19,1.04,20.8,1.8,0
+2023,11,port_klang_link,Port Klang Link,1.05,0.79,heavy,19,1.04,22.6,3.6,0
+2023,11,port_klang_link,Port Klang Link,1.05,0.88,heavy,19,1.04,20.7,1.7,0
+2023,11,port_klang_link,Port Klang Link,1.05,0.77,standard,19,1.04,17.0,-2.0,0
+2023,11,port_klang_link,Port Klang Link,1.05,0.7,light,19,1.04,21.0,2.0,0
+2023,11,port_klang_link,Port Klang Link,1.05,0.85,standard,19,1.04,20.5,1.5,0
+2023,11,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.6,light,15,1.15,18.0,3.0,0
+2023,11,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.74,heavy,15,1.15,15.7,0.7,0
+2023,11,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.91,heavy,15,1.15,16.1,1.1,0
+2023,11,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.73,heavy,15,1.15,15.1,0.1,0
+2023,11,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.7,light,15,1.15,14.7,-0.3,0
+2023,11,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.73,standard,15,1.15,16.9,1.9,0
+2023,12,colombo_express,Colombo Express,1.4,0.74,standard,17,1.0,21.5,4.5,0
+2023,12,colombo_express,Colombo Express,1.4,0.67,heavy,17,1.0,20.6,3.6,0
+2023,12,colombo_express,Colombo Express,1.4,0.58,light,17,1.0,20.4,3.4,0
+2023,12,colombo_express,Colombo Express,1.4,0.9,heavy,17,1.0,20.7,3.7,0
+2023,12,colombo_express,Colombo Express,1.4,0.91,standard,17,1.0,20.2,3.2,0
+2023,12,colombo_express,Colombo Express,1.4,0.91,heavy,17,1.0,23.4,6.4,1
+2023,12,singapore_transship,Singapore Transship,1.15,0.68,heavy,21,1.08,23.4,2.4,0
+2023,12,singapore_transship,Singapore Transship,1.15,0.92,light,21,1.08,21.2,0.2,0
+2023,12,singapore_transship,Singapore Transship,1.15,0.66,standard,21,1.08,21.9,0.9,0
+2023,12,singapore_transship,Singapore Transship,1.15,0.6,heavy,21,1.08,23.9,2.9,0
+2023,12,singapore_transship,Singapore Transship,1.15,0.88,light,21,1.08,21.8,0.8,0
+2023,12,singapore_transship,Singapore Transship,1.15,0.58,standard,21,1.08,22.7,1.7,0
+2023,12,port_klang_link,Port Klang Link,1.1,0.82,heavy,19,1.04,23.0,4.0,0
+2023,12,port_klang_link,Port Klang Link,1.1,0.88,standard,19,1.04,22.0,3.0,0
+2023,12,port_klang_link,Port Klang Link,1.1,0.9,heavy,19,1.04,21.9,2.9,0
+2023,12,port_klang_link,Port Klang Link,1.1,0.9,light,19,1.04,21.9,2.9,0
+2023,12,port_klang_link,Port Klang Link,1.1,0.81,heavy,19,1.04,20.4,1.4,0
+2023,12,port_klang_link,Port Klang Link,1.1,0.72,heavy,19,1.04,23.8,4.8,0
+2023,12,jebel_ali_gulf,Jebel Ali Gulf Route,0.9,0.8,standard,15,1.15,16.0,1.0,0
+2023,12,jebel_ali_gulf,Jebel Ali Gulf Route,0.9,0.69,standard,15,1.15,14.0,-1.0,0
+2023,12,jebel_ali_gulf,Jebel Ali Gulf Route,0.9,0.6,standard,15,1.15,19.6,4.6,0
+2023,12,jebel_ali_gulf,Jebel Ali Gulf Route,0.9,0.68,standard,15,1.15,16.9,1.9,0
+2023,12,jebel_ali_gulf,Jebel Ali Gulf Route,0.9,0.76,standard,15,1.15,16.2,1.2,0
+2023,12,jebel_ali_gulf,Jebel Ali Gulf Route,0.9,0.91,standard,15,1.15,15.2,0.2,0
+2024,1,colombo_express,Colombo Express,0.9,0.87,heavy,17,1.0,17.8,0.8,0
+2024,1,colombo_express,Colombo Express,0.9,0.8,light,17,1.0,17.3,0.3,0
+2024,1,colombo_express,Colombo Express,0.9,0.85,light,17,1.0,19.2,2.2,0
+2024,1,colombo_express,Colombo Express,0.9,0.8,standard,17,1.0,17.8,0.8,0
+2024,1,colombo_express,Colombo Express,0.9,0.63,heavy,17,1.0,17.6,0.6,0
+2024,1,colombo_express,Colombo Express,0.9,0.58,heavy,17,1.0,20.6,3.6,0
+2024,1,singapore_transship,Singapore Transship,1.25,0.88,light,21,1.08,22.3,1.3,0
+2024,1,singapore_transship,Singapore Transship,1.25,0.69,light,21,1.08,23.6,2.6,0
+2024,1,singapore_transship,Singapore Transship,1.25,0.81,light,21,1.08,24.5,3.5,0
+2024,1,singapore_transship,Singapore Transship,1.25,0.68,standard,21,1.08,25.0,4.0,0
+2024,1,singapore_transship,Singapore Transship,1.25,0.56,light,21,1.08,25.7,4.7,0
+2024,1,singapore_transship,Singapore Transship,1.25,0.79,standard,21,1.08,26.3,5.3,1
+2024,1,port_klang_link,Port Klang Link,1.15,0.78,standard,19,1.04,22.3,3.3,0
+2024,1,port_klang_link,Port Klang Link,1.15,0.73,light,19,1.04,20.9,1.9,0
+2024,1,port_klang_link,Port Klang Link,1.15,0.81,standard,19,1.04,21.2,2.2,0
+2024,1,port_klang_link,Port Klang Link,1.15,0.76,heavy,19,1.04,20.2,1.2,0
+2024,1,port_klang_link,Port Klang Link,1.15,0.83,heavy,19,1.04,19.5,0.5,0
+2024,1,port_klang_link,Port Klang Link,1.15,0.78,light,19,1.04,18.3,-0.7,0
+2024,1,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.79,light,15,1.15,14.0,-1.0,0
+2024,1,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.66,light,15,1.15,17.6,2.6,0
+2024,1,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.71,heavy,15,1.15,17.1,2.1,0
+2024,1,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.72,heavy,15,1.15,17.3,2.3,0
+2024,1,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.62,standard,15,1.15,15.1,0.1,0
+2024,1,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.85,light,15,1.15,14.6,-0.4,0
+2024,2,colombo_express,Colombo Express,0.85,0.62,heavy,17,1.0,17.2,0.2,0
+2024,2,colombo_express,Colombo Express,0.85,0.86,heavy,17,1.0,18.5,1.5,0
+2024,2,colombo_express,Colombo Express,0.85,0.68,light,17,1.0,21.8,4.8,0
+2024,2,colombo_express,Colombo Express,0.85,0.71,light,17,1.0,19.7,2.7,0
+2024,2,colombo_express,Colombo Express,0.85,0.91,standard,17,1.0,16.8,-0.2,0
+2024,2,colombo_express,Colombo Express,0.85,0.9,light,17,1.0,15.2,-1.8,0
+2024,2,singapore_transship,Singapore Transship,1.3,0.74,heavy,21,1.08,24.7,3.7,0
+2024,2,singapore_transship,Singapore Transship,1.3,0.62,heavy,21,1.08,26.2,5.2,1
+2024,2,singapore_transship,Singapore Transship,1.3,0.67,standard,21,1.08,27.3,6.3,1
+2024,2,singapore_transship,Singapore Transship,1.3,0.87,light,21,1.08,21.7,0.7,0
+2024,2,singapore_transship,Singapore Transship,1.3,0.59,heavy,21,1.08,23.9,2.9,0
+2024,2,singapore_transship,Singapore Transship,1.3,0.75,light,21,1.08,24.0,3.0,0
+2024,2,port_klang_link,Port Klang Link,1.2,0.75,heavy,19,1.04,21.1,2.1,0
+2024,2,port_klang_link,Port Klang Link,1.2,0.62,light,19,1.04,18.6,-0.4,0
+2024,2,port_klang_link,Port Klang Link,1.2,0.55,light,19,1.04,19.2,0.2,0
+2024,2,port_klang_link,Port Klang Link,1.2,0.75,heavy,19,1.04,24.9,5.9,1
+2024,2,port_klang_link,Port Klang Link,1.2,0.85,standard,19,1.04,23.4,4.4,0
+2024,2,port_klang_link,Port Klang Link,1.2,0.62,light,19,1.04,23.9,4.9,0
+2024,2,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.87,light,15,1.15,13.0,-2.0,0
+2024,2,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.66,heavy,15,1.15,18.9,3.9,0
+2024,2,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.65,standard,15,1.15,13.0,-2.0,0
+2024,2,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.59,standard,15,1.15,16.6,1.6,0
+2024,2,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.83,heavy,15,1.15,15.2,0.2,0
+2024,2,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.85,heavy,15,1.15,14.8,-0.2,0
+2024,3,colombo_express,Colombo Express,0.9,0.68,heavy,17,1.0,19.8,2.8,0
+2024,3,colombo_express,Colombo Express,0.9,0.55,standard,17,1.0,17.1,0.1,0
+2024,3,colombo_express,Colombo Express,0.9,0.69,light,17,1.0,16.2,-0.8,0
+2024,3,colombo_express,Colombo Express,0.9,0.79,heavy,17,1.0,19.1,2.1,0
+2024,3,colombo_express,Colombo Express,0.9,0.91,standard,17,1.0,18.4,1.4,0
+2024,3,colombo_express,Colombo Express,0.9,0.64,standard,17,1.0,20.3,3.3,0
+2024,3,singapore_transship,Singapore Transship,1.0,0.7,standard,21,1.08,22.7,1.7,0
+2024,3,singapore_transship,Singapore Transship,1.0,0.59,light,21,1.08,21.3,0.3,0
+2024,3,singapore_transship,Singapore Transship,1.0,0.65,standard,21,1.08,24.1,3.1,0
+2024,3,singapore_transship,Singapore Transship,1.0,0.67,standard,21,1.08,23.1,2.1,0
+2024,3,singapore_transship,Singapore Transship,1.0,0.79,light,21,1.08,19.0,-2.0,0
+2024,3,singapore_transship,Singapore Transship,1.0,0.86,heavy,21,1.08,24.3,3.3,0
+2024,3,port_klang_link,Port Klang Link,0.95,0.67,standard,19,1.04,18.8,-0.2,0
+2024,3,port_klang_link,Port Klang Link,0.95,0.69,heavy,19,1.04,19.5,0.5,0
+2024,3,port_klang_link,Port Klang Link,0.95,0.91,light,19,1.04,17.0,-2.0,0
+2024,3,port_klang_link,Port Klang Link,0.95,0.55,heavy,19,1.04,23.2,4.2,0
+2024,3,port_klang_link,Port Klang Link,0.95,0.67,standard,19,1.04,21.9,2.9,0
+2024,3,port_klang_link,Port Klang Link,0.95,0.88,light,19,1.04,20.9,1.9,0
+2024,3,jebel_ali_gulf,Jebel Ali Gulf Route,0.9,0.63,light,15,1.15,14.5,-0.5,0
+2024,3,jebel_ali_gulf,Jebel Ali Gulf Route,0.9,0.63,heavy,15,1.15,14.7,-0.3,0
+2024,3,jebel_ali_gulf,Jebel Ali Gulf Route,0.9,0.7,heavy,15,1.15,15.3,0.3,0
+2024,3,jebel_ali_gulf,Jebel Ali Gulf Route,0.9,0.69,standard,15,1.15,17.1,2.1,0
+2024,3,jebel_ali_gulf,Jebel Ali Gulf Route,0.9,0.84,heavy,15,1.15,16.3,1.3,0
+2024,3,jebel_ali_gulf,Jebel Ali Gulf Route,0.9,0.86,standard,15,1.15,16.6,1.6,0
+2024,4,colombo_express,Colombo Express,0.95,0.61,standard,17,1.0,15.0,-2.0,0
+2024,4,colombo_express,Colombo Express,0.95,0.7,heavy,17,1.0,16.0,-1.0,0
+2024,4,colombo_express,Colombo Express,0.95,0.84,standard,17,1.0,18.6,1.6,0
+2024,4,colombo_express,Colombo Express,0.95,0.62,light,17,1.0,16.3,-0.7,0
+2024,4,colombo_express,Colombo Express,0.95,0.75,heavy,17,1.0,18.8,1.8,0
+2024,4,colombo_express,Colombo Express,0.95,0.64,standard,17,1.0,16.5,-0.5,0
+2024,4,singapore_transship,Singapore Transship,0.95,0.58,light,21,1.08,19.8,-1.2,0
+2024,4,singapore_transship,Singapore Transship,0.95,0.74,heavy,21,1.08,22.5,1.5,0
+2024,4,singapore_transship,Singapore Transship,0.95,0.68,standard,21,1.08,19.9,-1.1,0
+2024,4,singapore_transship,Singapore Transship,0.95,0.62,heavy,21,1.08,21.9,0.9,0
+2024,4,singapore_transship,Singapore Transship,0.95,0.75,heavy,21,1.08,21.1,0.1,0
+2024,4,singapore_transship,Singapore Transship,0.95,0.62,standard,21,1.08,21.2,0.2,0
+2024,4,port_klang_link,Port Klang Link,0.9,0.79,light,19,1.04,19.4,0.4,0
+2024,4,port_klang_link,Port Klang Link,0.9,0.63,heavy,19,1.04,21.4,2.4,0
+2024,4,port_klang_link,Port Klang Link,0.9,0.72,standard,19,1.04,19.1,0.1,0
+2024,4,port_klang_link,Port Klang Link,0.9,0.92,heavy,19,1.04,19.2,0.2,0
+2024,4,port_klang_link,Port Klang Link,0.9,0.79,light,19,1.04,17.3,-1.7,0
+2024,4,port_klang_link,Port Klang Link,0.9,0.61,light,19,1.04,18.2,-0.8,0
+2024,4,jebel_ali_gulf,Jebel Ali Gulf Route,1.0,0.86,standard,15,1.15,17.8,2.8,0
+2024,4,jebel_ali_gulf,Jebel Ali Gulf Route,1.0,0.73,light,15,1.15,13.0,-2.0,0
+2024,4,jebel_ali_gulf,Jebel Ali Gulf Route,1.0,0.73,light,15,1.15,14.1,-0.9,0
+2024,4,jebel_ali_gulf,Jebel Ali Gulf Route,1.0,0.65,standard,15,1.15,13.9,-1.1,0
+2024,4,jebel_ali_gulf,Jebel Ali Gulf Route,1.0,0.63,standard,15,1.15,14.0,-1.0,0
+2024,4,jebel_ali_gulf,Jebel Ali Gulf Route,1.0,0.74,standard,15,1.15,14.4,-0.6,0
+2024,5,colombo_express,Colombo Express,1.1,0.71,heavy,17,1.0,21.1,4.1,0
+2024,5,colombo_express,Colombo Express,1.1,0.58,standard,17,1.0,20.6,3.6,0
+2024,5,colombo_express,Colombo Express,1.1,0.65,light,17,1.0,20.3,3.3,0
+2024,5,colombo_express,Colombo Express,1.1,0.88,heavy,17,1.0,18.9,1.9,0
+2024,5,colombo_express,Colombo Express,1.1,0.9,light,17,1.0,18.7,1.7,0
+2024,5,colombo_express,Colombo Express,1.1,0.72,heavy,17,1.0,19.4,2.4,0
+2024,5,singapore_transship,Singapore Transship,0.9,0.67,light,21,1.08,22.4,1.4,0
+2024,5,singapore_transship,Singapore Transship,0.9,0.88,light,21,1.08,21.9,0.9,0
+2024,5,singapore_transship,Singapore Transship,0.9,0.84,heavy,21,1.08,26.0,5.0,0
+2024,5,singapore_transship,Singapore Transship,0.9,0.68,light,21,1.08,20.1,-0.9,0
+2024,5,singapore_transship,Singapore Transship,0.9,0.58,light,21,1.08,23.1,2.1,0
+2024,5,singapore_transship,Singapore Transship,0.9,0.66,heavy,21,1.08,21.1,0.1,0
+2024,5,port_klang_link,Port Klang Link,0.9,0.57,light,19,1.04,18.1,-0.9,0
+2024,5,port_klang_link,Port Klang Link,0.9,0.91,standard,19,1.04,20.4,1.4,0
+2024,5,port_klang_link,Port Klang Link,0.9,0.59,heavy,19,1.04,22.6,3.6,0
+2024,5,port_klang_link,Port Klang Link,0.9,0.76,heavy,19,1.04,20.5,1.5,0
+2024,5,port_klang_link,Port Klang Link,0.9,0.64,heavy,19,1.04,21.3,2.3,0
+2024,5,port_klang_link,Port Klang Link,0.9,0.68,light,19,1.04,19.9,0.9,0
+2024,5,jebel_ali_gulf,Jebel Ali Gulf Route,1.2,0.68,standard,15,1.15,15.9,0.9,0
+2024,5,jebel_ali_gulf,Jebel Ali Gulf Route,1.2,0.66,heavy,15,1.15,19.9,4.9,0
+2024,5,jebel_ali_gulf,Jebel Ali Gulf Route,1.2,0.85,light,15,1.15,15.3,0.3,0
+2024,5,jebel_ali_gulf,Jebel Ali Gulf Route,1.2,0.65,heavy,15,1.15,19.3,4.3,0
+2024,5,jebel_ali_gulf,Jebel Ali Gulf Route,1.2,0.71,standard,15,1.15,14.8,-0.2,0
+2024,5,jebel_ali_gulf,Jebel Ali Gulf Route,1.2,0.64,heavy,15,1.15,18.9,3.9,0
+2024,6,colombo_express,Colombo Express,1.4,0.82,heavy,17,1.0,23.5,6.5,1
+2024,6,colombo_express,Colombo Express,1.4,0.85,light,17,1.0,21.3,4.3,0
+2024,6,colombo_express,Colombo Express,1.4,0.69,light,17,1.0,21.4,4.4,0
+2024,6,colombo_express,Colombo Express,1.4,0.77,heavy,17,1.0,23.4,6.4,1
+2024,6,colombo_express,Colombo Express,1.4,0.91,light,17,1.0,21.1,4.1,0
+2024,6,colombo_express,Colombo Express,1.4,0.85,light,17,1.0,19.5,2.5,0
+2024,6,singapore_transship,Singapore Transship,0.95,0.75,standard,21,1.08,22.7,1.7,0
+2024,6,singapore_transship,Singapore Transship,0.95,0.65,light,21,1.08,19.9,-1.1,0
+2024,6,singapore_transship,Singapore Transship,0.95,0.7,heavy,21,1.08,24.0,3.0,0
+2024,6,singapore_transship,Singapore Transship,0.95,0.59,standard,21,1.08,23.6,2.6,0
+2024,6,singapore_transship,Singapore Transship,0.95,0.66,heavy,21,1.08,24.0,3.0,0
+2024,6,singapore_transship,Singapore Transship,0.95,0.71,standard,21,1.08,22.5,1.5,0
+2024,6,port_klang_link,Port Klang Link,0.95,0.74,light,19,1.04,19.3,0.3,0
+2024,6,port_klang_link,Port Klang Link,0.95,0.85,heavy,19,1.04,23.6,4.6,0
+2024,6,port_klang_link,Port Klang Link,0.95,0.75,light,19,1.04,22.7,3.7,0
+2024,6,port_klang_link,Port Klang Link,0.95,0.69,heavy,19,1.04,21.2,2.2,0
+2024,6,port_klang_link,Port Klang Link,0.95,0.86,light,19,1.04,19.2,0.2,0
+2024,6,port_klang_link,Port Klang Link,0.95,0.72,heavy,19,1.04,17.0,-2.0,0
+2024,6,jebel_ali_gulf,Jebel Ali Gulf Route,1.45,0.86,light,15,1.15,20.6,5.6,1
+2024,6,jebel_ali_gulf,Jebel Ali Gulf Route,1.45,0.65,light,15,1.15,18.8,3.8,0
+2024,6,jebel_ali_gulf,Jebel Ali Gulf Route,1.45,0.75,light,15,1.15,20.1,5.1,1
+2024,6,jebel_ali_gulf,Jebel Ali Gulf Route,1.45,0.83,standard,15,1.15,19.1,4.1,0
+2024,6,jebel_ali_gulf,Jebel Ali Gulf Route,1.45,0.88,light,15,1.15,18.5,3.5,0
+2024,6,jebel_ali_gulf,Jebel Ali Gulf Route,1.45,0.83,standard,15,1.15,21.0,6.0,1
+2024,7,colombo_express,Colombo Express,1.5,0.6,light,17,1.0,21.8,4.8,0
+2024,7,colombo_express,Colombo Express,1.5,0.85,heavy,17,1.0,23.6,6.6,1
+2024,7,colombo_express,Colombo Express,1.5,0.69,standard,17,1.0,24.1,7.1,1
+2024,7,colombo_express,Colombo Express,1.5,0.61,standard,17,1.0,23.4,6.4,1
+2024,7,colombo_express,Colombo Express,1.5,0.81,heavy,17,1.0,23.8,6.8,1
+2024,7,colombo_express,Colombo Express,1.5,0.88,standard,17,1.0,20.3,3.3,0
+2024,7,singapore_transship,Singapore Transship,1.0,0.74,standard,21,1.08,21.0,0.0,0
+2024,7,singapore_transship,Singapore Transship,1.0,0.67,heavy,21,1.08,20.5,-0.5,0
+2024,7,singapore_transship,Singapore Transship,1.0,0.62,light,21,1.08,20.5,-0.5,0
+2024,7,singapore_transship,Singapore Transship,1.0,0.76,light,21,1.08,21.0,0.0,0
+2024,7,singapore_transship,Singapore Transship,1.0,0.63,standard,21,1.08,23.9,2.9,0
+2024,7,singapore_transship,Singapore Transship,1.0,0.73,heavy,21,1.08,21.6,0.6,0
+2024,7,port_klang_link,Port Klang Link,0.95,0.74,standard,19,1.04,17.6,-1.4,0
+2024,7,port_klang_link,Port Klang Link,0.95,0.62,heavy,19,1.04,21.9,2.9,0
+2024,7,port_klang_link,Port Klang Link,0.95,0.57,standard,19,1.04,23.4,4.4,0
+2024,7,port_klang_link,Port Klang Link,0.95,0.75,heavy,19,1.04,21.7,2.7,0
+2024,7,port_klang_link,Port Klang Link,0.95,0.61,heavy,19,1.04,20.1,1.1,0
+2024,7,port_klang_link,Port Klang Link,0.95,0.73,standard,19,1.04,24.2,5.2,1
+2024,7,jebel_ali_gulf,Jebel Ali Gulf Route,1.55,0.56,heavy,15,1.15,19.1,4.1,0
+2024,7,jebel_ali_gulf,Jebel Ali Gulf Route,1.55,0.63,heavy,15,1.15,21.2,6.2,1
+2024,7,jebel_ali_gulf,Jebel Ali Gulf Route,1.55,0.86,light,15,1.15,17.4,2.4,0
+2024,7,jebel_ali_gulf,Jebel Ali Gulf Route,1.55,0.62,heavy,15,1.15,21.2,6.2,1
+2024,7,jebel_ali_gulf,Jebel Ali Gulf Route,1.55,0.84,light,15,1.15,20.1,5.1,1
+2024,7,jebel_ali_gulf,Jebel Ali Gulf Route,1.55,0.8,heavy,15,1.15,19.0,4.0,0
+2024,8,colombo_express,Colombo Express,1.45,0.71,standard,17,1.0,20.5,3.5,0
+2024,8,colombo_express,Colombo Express,1.45,0.83,light,17,1.0,18.4,1.4,0
+2024,8,colombo_express,Colombo Express,1.45,0.77,standard,17,1.0,22.1,5.1,1
+2024,8,colombo_express,Colombo Express,1.45,0.72,light,17,1.0,20.1,3.1,0
+2024,8,colombo_express,Colombo Express,1.45,0.82,heavy,17,1.0,21.8,4.8,0
+2024,8,colombo_express,Colombo Express,1.45,0.76,standard,17,1.0,21.2,4.2,0
+2024,8,singapore_transship,Singapore Transship,1.0,0.92,standard,21,1.08,22.1,1.1,0
+2024,8,singapore_transship,Singapore Transship,1.0,0.66,standard,21,1.08,25.2,4.2,0
+2024,8,singapore_transship,Singapore Transship,1.0,0.73,light,21,1.08,22.2,1.2,0
+2024,8,singapore_transship,Singapore Transship,1.0,0.83,light,21,1.08,20.2,-0.8,0
+2024,8,singapore_transship,Singapore Transship,1.0,0.81,light,21,1.08,21.4,0.4,0
+2024,8,singapore_transship,Singapore Transship,1.0,0.74,standard,21,1.08,19.1,-1.9,0
+2024,8,port_klang_link,Port Klang Link,0.95,0.82,light,19,1.04,18.4,-0.6,0
+2024,8,port_klang_link,Port Klang Link,0.95,0.82,heavy,19,1.04,18.7,-0.3,0
+2024,8,port_klang_link,Port Klang Link,0.95,0.79,standard,19,1.04,18.3,-0.7,0
+2024,8,port_klang_link,Port Klang Link,0.95,0.87,light,19,1.04,20.2,1.2,0
+2024,8,port_klang_link,Port Klang Link,0.95,0.59,heavy,19,1.04,20.6,1.6,0
+2024,8,port_klang_link,Port Klang Link,0.95,0.69,standard,19,1.04,20.8,1.8,0
+2024,8,jebel_ali_gulf,Jebel Ali Gulf Route,1.5,0.68,heavy,15,1.15,20.7,5.7,1
+2024,8,jebel_ali_gulf,Jebel Ali Gulf Route,1.5,0.65,light,15,1.15,18.4,3.4,0
+2024,8,jebel_ali_gulf,Jebel Ali Gulf Route,1.5,0.89,light,15,1.15,21.1,6.1,1
+2024,8,jebel_ali_gulf,Jebel Ali Gulf Route,1.5,0.69,heavy,15,1.15,23.2,8.2,1
+2024,8,jebel_ali_gulf,Jebel Ali Gulf Route,1.5,0.86,heavy,15,1.15,19.5,4.5,0
+2024,8,jebel_ali_gulf,Jebel Ali Gulf Route,1.5,0.85,standard,15,1.15,19.8,4.8,0
+2024,9,colombo_express,Colombo Express,1.3,0.83,heavy,17,1.0,16.9,-0.1,0
+2024,9,colombo_express,Colombo Express,1.3,0.83,light,17,1.0,23.4,6.4,1
+2024,9,colombo_express,Colombo Express,1.3,0.58,light,17,1.0,22.0,5.0,0
+2024,9,colombo_express,Colombo Express,1.3,0.9,standard,17,1.0,18.1,1.1,0
+2024,9,colombo_express,Colombo Express,1.3,0.61,standard,17,1.0,20.0,3.0,0
+2024,9,colombo_express,Colombo Express,1.3,0.75,heavy,17,1.0,18.8,1.8,0
+2024,9,singapore_transship,Singapore Transship,1.0,0.88,light,21,1.08,23.1,2.1,0
+2024,9,singapore_transship,Singapore Transship,1.0,0.62,light,21,1.08,24.1,3.1,0
+2024,9,singapore_transship,Singapore Transship,1.0,0.59,light,21,1.08,19.4,-1.6,0
+2024,9,singapore_transship,Singapore Transship,1.0,0.77,light,21,1.08,21.7,0.7,0
+2024,9,singapore_transship,Singapore Transship,1.0,0.92,standard,21,1.08,20.1,-0.9,0
+2024,9,singapore_transship,Singapore Transship,1.0,0.61,heavy,21,1.08,23.3,2.3,0
+2024,9,port_klang_link,Port Klang Link,0.95,0.69,standard,19,1.04,20.5,1.5,0
+2024,9,port_klang_link,Port Klang Link,0.95,0.63,light,19,1.04,17.0,-2.0,0
+2024,9,port_klang_link,Port Klang Link,0.95,0.68,heavy,19,1.04,20.3,1.3,0
+2024,9,port_klang_link,Port Klang Link,0.95,0.9,light,19,1.04,17.7,-1.3,0
+2024,9,port_klang_link,Port Klang Link,0.95,0.7,light,19,1.04,17.6,-1.4,0
+2024,9,port_klang_link,Port Klang Link,0.95,0.82,standard,19,1.04,23.8,4.8,0
+2024,9,jebel_ali_gulf,Jebel Ali Gulf Route,1.2,0.76,heavy,15,1.15,17.7,2.7,0
+2024,9,jebel_ali_gulf,Jebel Ali Gulf Route,1.2,0.88,heavy,15,1.15,14.7,-0.3,0
+2024,9,jebel_ali_gulf,Jebel Ali Gulf Route,1.2,0.75,standard,15,1.15,18.6,3.6,0
+2024,9,jebel_ali_gulf,Jebel Ali Gulf Route,1.2,0.69,light,15,1.15,13.7,-1.3,0
+2024,9,jebel_ali_gulf,Jebel Ali Gulf Route,1.2,0.67,standard,15,1.15,15.6,0.6,0
+2024,9,jebel_ali_gulf,Jebel Ali Gulf Route,1.2,0.56,heavy,15,1.15,21.3,6.3,1
+2024,10,colombo_express,Colombo Express,1.05,0.81,heavy,17,1.0,15.7,-1.3,0
+2024,10,colombo_express,Colombo Express,1.05,0.65,light,17,1.0,16.6,-0.4,0
+2024,10,colombo_express,Colombo Express,1.05,0.83,light,17,1.0,19.1,2.1,0
+2024,10,colombo_express,Colombo Express,1.05,0.59,standard,17,1.0,17.9,0.9,0
+2024,10,colombo_express,Colombo Express,1.05,0.91,light,17,1.0,17.3,0.3,0
+2024,10,colombo_express,Colombo Express,1.05,0.9,heavy,17,1.0,16.9,-0.1,0
+2024,10,singapore_transship,Singapore Transship,1.05,0.82,standard,21,1.08,21.6,0.6,0
+2024,10,singapore_transship,Singapore Transship,1.05,0.63,light,21,1.08,24.3,3.3,0
+2024,10,singapore_transship,Singapore Transship,1.05,0.73,heavy,21,1.08,23.0,2.0,0
+2024,10,singapore_transship,Singapore Transship,1.05,0.79,light,21,1.08,21.9,0.9,0
+2024,10,singapore_transship,Singapore Transship,1.05,0.58,heavy,21,1.08,24.2,3.2,0
+2024,10,singapore_transship,Singapore Transship,1.05,0.78,standard,21,1.08,21.4,0.4,0
+2024,10,port_klang_link,Port Klang Link,1.0,0.75,standard,19,1.04,22.0,3.0,0
+2024,10,port_klang_link,Port Klang Link,1.0,0.86,light,19,1.04,19.0,0.0,0
+2024,10,port_klang_link,Port Klang Link,1.0,0.61,standard,19,1.04,17.5,-1.5,0
+2024,10,port_klang_link,Port Klang Link,1.0,0.68,standard,19,1.04,21.4,2.4,0
+2024,10,port_klang_link,Port Klang Link,1.0,0.78,light,19,1.04,18.7,-0.3,0
+2024,10,port_klang_link,Port Klang Link,1.0,0.57,heavy,19,1.04,20.8,1.8,0
+2024,10,jebel_ali_gulf,Jebel Ali Gulf Route,0.95,0.62,light,15,1.15,15.2,0.2,0
+2024,10,jebel_ali_gulf,Jebel Ali Gulf Route,0.95,0.63,heavy,15,1.15,17.7,2.7,0
+2024,10,jebel_ali_gulf,Jebel Ali Gulf Route,0.95,0.72,standard,15,1.15,15.2,0.2,0
+2024,10,jebel_ali_gulf,Jebel Ali Gulf Route,0.95,0.58,light,15,1.15,16.9,1.9,0
+2024,10,jebel_ali_gulf,Jebel Ali Gulf Route,0.95,0.66,standard,15,1.15,17.0,2.0,0
+2024,10,jebel_ali_gulf,Jebel Ali Gulf Route,0.95,0.88,light,15,1.15,17.5,2.5,0
+2024,11,colombo_express,Colombo Express,1.35,0.68,heavy,17,1.0,23.2,6.2,1
+2024,11,colombo_express,Colombo Express,1.35,0.9,heavy,17,1.0,22.7,5.7,1
+2024,11,colombo_express,Colombo Express,1.35,0.69,light,17,1.0,20.6,3.6,0
+2024,11,colombo_express,Colombo Express,1.35,0.83,standard,17,1.0,20.4,3.4,0
+2024,11,colombo_express,Colombo Express,1.35,0.64,heavy,17,1.0,23.8,6.8,1
+2024,11,colombo_express,Colombo Express,1.35,0.77,standard,17,1.0,21.0,4.0,0
+2024,11,singapore_transship,Singapore Transship,1.1,0.7,standard,21,1.08,24.0,3.0,0
+2024,11,singapore_transship,Singapore Transship,1.1,0.69,light,21,1.08,20.1,-0.9,0
+2024,11,singapore_transship,Singapore Transship,1.1,0.89,standard,21,1.08,24.3,3.3,0
+2024,11,singapore_transship,Singapore Transship,1.1,0.76,standard,21,1.08,21.8,0.8,0
+2024,11,singapore_transship,Singapore Transship,1.1,0.65,standard,21,1.08,24.2,3.2,0
+2024,11,singapore_transship,Singapore Transship,1.1,0.71,standard,21,1.08,21.6,0.6,0
+2024,11,port_klang_link,Port Klang Link,1.05,0.76,heavy,19,1.04,18.8,-0.2,0
+2024,11,port_klang_link,Port Klang Link,1.05,0.86,standard,19,1.04,20.5,1.5,0
+2024,11,port_klang_link,Port Klang Link,1.05,0.72,standard,19,1.04,18.5,-0.5,0
+2024,11,port_klang_link,Port Klang Link,1.05,0.86,heavy,19,1.04,20.0,1.0,0
+2024,11,port_klang_link,Port Klang Link,1.05,0.7,heavy,19,1.04,21.4,2.4,0
+2024,11,port_klang_link,Port Klang Link,1.05,0.75,heavy,19,1.04,21.5,2.5,0
+2024,11,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.61,light,15,1.15,15.8,0.8,0
+2024,11,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.73,heavy,15,1.15,16.7,1.7,0
+2024,11,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.67,heavy,15,1.15,16.3,1.3,0
+2024,11,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.85,standard,15,1.15,15.5,0.5,0
+2024,11,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.57,light,15,1.15,17.0,2.0,0
+2024,11,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.81,heavy,15,1.15,18.1,3.1,0
+2024,12,colombo_express,Colombo Express,1.4,0.73,heavy,17,1.0,22.1,5.1,1
+2024,12,colombo_express,Colombo Express,1.4,0.7,light,17,1.0,19.1,2.1,0
+2024,12,colombo_express,Colombo Express,1.4,0.78,heavy,17,1.0,21.8,4.8,0
+2024,12,colombo_express,Colombo Express,1.4,0.86,standard,17,1.0,21.7,4.7,0
+2024,12,colombo_express,Colombo Express,1.4,0.91,light,17,1.0,21.1,4.1,0
+2024,12,colombo_express,Colombo Express,1.4,0.88,heavy,17,1.0,20.0,3.0,0
+2024,12,singapore_transship,Singapore Transship,1.15,0.63,standard,21,1.08,21.6,0.6,0
+2024,12,singapore_transship,Singapore Transship,1.15,0.71,heavy,21,1.08,24.2,3.2,0
+2024,12,singapore_transship,Singapore Transship,1.15,0.56,light,21,1.08,23.7,2.7,0
+2024,12,singapore_transship,Singapore Transship,1.15,0.89,light,21,1.08,21.9,0.9,0
+2024,12,singapore_transship,Singapore Transship,1.15,0.78,light,21,1.08,23.0,2.0,0
+2024,12,singapore_transship,Singapore Transship,1.15,0.81,standard,21,1.08,22.7,1.7,0
+2024,12,port_klang_link,Port Klang Link,1.1,0.62,light,19,1.04,21.1,2.1,0
+2024,12,port_klang_link,Port Klang Link,1.1,0.74,heavy,19,1.04,18.3,-0.7,0
+2024,12,port_klang_link,Port Klang Link,1.1,0.91,standard,19,1.04,18.5,-0.5,0
+2024,12,port_klang_link,Port Klang Link,1.1,0.63,heavy,19,1.04,18.9,-0.1,0
+2024,12,port_klang_link,Port Klang Link,1.1,0.62,light,19,1.04,17.0,-2.0,0
+2024,12,port_klang_link,Port Klang Link,1.1,0.78,standard,19,1.04,17.0,-2.0,0
+2024,12,jebel_ali_gulf,Jebel Ali Gulf Route,0.9,0.83,heavy,15,1.15,15.3,0.3,0
+2024,12,jebel_ali_gulf,Jebel Ali Gulf Route,0.9,0.78,heavy,15,1.15,18.1,3.1,0
+2024,12,jebel_ali_gulf,Jebel Ali Gulf Route,0.9,0.76,heavy,15,1.15,13.5,-1.5,0
+2024,12,jebel_ali_gulf,Jebel Ali Gulf Route,0.9,0.87,heavy,15,1.15,16.7,1.7,0
+2024,12,jebel_ali_gulf,Jebel Ali Gulf Route,0.9,0.73,heavy,15,1.15,16.7,1.7,0
+2024,12,jebel_ali_gulf,Jebel Ali Gulf Route,0.9,0.71,light,15,1.15,15.9,0.9,0
+2025,1,colombo_express,Colombo Express,0.9,0.57,light,17,1.0,18.3,1.3,0
+2025,1,colombo_express,Colombo Express,0.9,0.78,heavy,17,1.0,17.3,0.3,0
+2025,1,colombo_express,Colombo Express,0.9,0.57,standard,17,1.0,19.2,2.2,0
+2025,1,colombo_express,Colombo Express,0.9,0.62,standard,17,1.0,17.9,0.9,0
+2025,1,colombo_express,Colombo Express,0.9,0.74,standard,17,1.0,17.6,0.6,0
+2025,1,colombo_express,Colombo Express,0.9,0.64,heavy,17,1.0,21.3,4.3,0
+2025,1,singapore_transship,Singapore Transship,1.25,0.88,standard,21,1.08,26.6,5.6,1
+2025,1,singapore_transship,Singapore Transship,1.25,0.84,light,21,1.08,22.4,1.4,0
+2025,1,singapore_transship,Singapore Transship,1.25,0.56,light,21,1.08,25.4,4.4,0
+2025,1,singapore_transship,Singapore Transship,1.25,0.73,light,21,1.08,24.0,3.0,0
+2025,1,singapore_transship,Singapore Transship,1.25,0.67,light,21,1.08,21.3,0.3,0
+2025,1,singapore_transship,Singapore Transship,1.25,0.56,standard,21,1.08,25.2,4.2,0
+2025,1,port_klang_link,Port Klang Link,1.15,0.82,heavy,19,1.04,19.2,0.2,0
+2025,1,port_klang_link,Port Klang Link,1.15,0.74,standard,19,1.04,19.1,0.1,0
+2025,1,port_klang_link,Port Klang Link,1.15,0.56,standard,19,1.04,18.9,-0.1,0
+2025,1,port_klang_link,Port Klang Link,1.15,0.86,heavy,19,1.04,20.4,1.4,0
+2025,1,port_klang_link,Port Klang Link,1.15,0.65,standard,19,1.04,21.6,2.6,0
+2025,1,port_klang_link,Port Klang Link,1.15,0.88,light,19,1.04,20.6,1.6,0
+2025,1,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.62,standard,15,1.15,17.1,2.1,0
+2025,1,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.89,standard,15,1.15,13.0,-2.0,0
+2025,1,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.74,heavy,15,1.15,14.8,-0.2,0
+2025,1,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.66,light,15,1.15,19.1,4.1,0
+2025,1,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.79,heavy,15,1.15,16.9,1.9,0
+2025,1,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.75,heavy,15,1.15,18.4,3.4,0
+2025,2,colombo_express,Colombo Express,0.85,0.82,light,17,1.0,15.7,-1.3,0
+2025,2,colombo_express,Colombo Express,0.85,0.86,light,17,1.0,17.4,0.4,0
+2025,2,colombo_express,Colombo Express,0.85,0.85,light,17,1.0,17.9,0.9,0
+2025,2,colombo_express,Colombo Express,0.85,0.91,standard,17,1.0,18.7,1.7,0
+2025,2,colombo_express,Colombo Express,0.85,0.81,light,17,1.0,15.1,-1.9,0
+2025,2,colombo_express,Colombo Express,0.85,0.57,heavy,17,1.0,20.4,3.4,0
+2025,2,singapore_transship,Singapore Transship,1.3,0.69,heavy,21,1.08,24.2,3.2,0
+2025,2,singapore_transship,Singapore Transship,1.3,0.71,standard,21,1.08,22.1,1.1,0
+2025,2,singapore_transship,Singapore Transship,1.3,0.71,light,21,1.08,22.5,1.5,0
+2025,2,singapore_transship,Singapore Transship,1.3,0.57,light,21,1.08,25.6,4.6,0
+2025,2,singapore_transship,Singapore Transship,1.3,0.8,heavy,21,1.08,26.2,5.2,1
+2025,2,singapore_transship,Singapore Transship,1.3,0.56,light,21,1.08,21.8,0.8,0
+2025,2,port_klang_link,Port Klang Link,1.2,0.63,standard,19,1.04,23.1,4.1,0
+2025,2,port_klang_link,Port Klang Link,1.2,0.72,standard,19,1.04,20.5,1.5,0
+2025,2,port_klang_link,Port Klang Link,1.2,0.79,heavy,19,1.04,25.3,6.3,1
+2025,2,port_klang_link,Port Klang Link,1.2,0.82,standard,19,1.04,18.6,-0.4,0
+2025,2,port_klang_link,Port Klang Link,1.2,0.7,standard,19,1.04,20.7,1.7,0
+2025,2,port_klang_link,Port Klang Link,1.2,0.83,heavy,19,1.04,19.1,0.1,0
+2025,2,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.73,heavy,15,1.15,13.5,-1.5,0
+2025,2,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.85,light,15,1.15,13.0,-2.0,0
+2025,2,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.7,light,15,1.15,17.8,2.8,0
+2025,2,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.84,standard,15,1.15,13.0,-2.0,0
+2025,2,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.9,light,15,1.15,15.6,0.6,0
+2025,2,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.65,light,15,1.15,13.0,-2.0,0
+2025,3,colombo_express,Colombo Express,0.9,0.76,light,17,1.0,15.2,-1.8,0
+2025,3,colombo_express,Colombo Express,0.9,0.68,standard,17,1.0,16.6,-0.4,0
+2025,3,colombo_express,Colombo Express,0.9,0.85,standard,17,1.0,20.5,3.5,0
+2025,3,colombo_express,Colombo Express,0.9,0.75,standard,17,1.0,19.8,2.8,0
+2025,3,colombo_express,Colombo Express,0.9,0.91,light,17,1.0,16.3,-0.7,0
+2025,3,colombo_express,Colombo Express,0.9,0.71,heavy,17,1.0,20.8,3.8,0
+2025,3,singapore_transship,Singapore Transship,1.0,0.76,standard,21,1.08,23.5,2.5,0
+2025,3,singapore_transship,Singapore Transship,1.0,0.9,standard,21,1.08,24.2,3.2,0
+2025,3,singapore_transship,Singapore Transship,1.0,0.72,light,21,1.08,20.2,-0.8,0
+2025,3,singapore_transship,Singapore Transship,1.0,0.63,heavy,21,1.08,23.6,2.6,0
+2025,3,singapore_transship,Singapore Transship,1.0,0.64,heavy,21,1.08,24.2,3.2,0
+2025,3,singapore_transship,Singapore Transship,1.0,0.76,heavy,21,1.08,24.7,3.7,0
+2025,3,port_klang_link,Port Klang Link,0.95,0.62,heavy,19,1.04,20.5,1.5,0
+2025,3,port_klang_link,Port Klang Link,0.95,0.76,light,19,1.04,19.0,0.0,0
+2025,3,port_klang_link,Port Klang Link,0.95,0.66,heavy,19,1.04,21.8,2.8,0
+2025,3,port_klang_link,Port Klang Link,0.95,0.81,heavy,19,1.04,17.4,-1.6,0
+2025,3,port_klang_link,Port Klang Link,0.95,0.81,heavy,19,1.04,18.9,-0.1,0
+2025,3,port_klang_link,Port Klang Link,0.95,0.58,light,19,1.04,19.2,0.2,0
+2025,3,jebel_ali_gulf,Jebel Ali Gulf Route,0.9,0.86,standard,15,1.15,15.3,0.3,0
+2025,3,jebel_ali_gulf,Jebel Ali Gulf Route,0.9,0.92,standard,15,1.15,17.4,2.4,0
+2025,3,jebel_ali_gulf,Jebel Ali Gulf Route,0.9,0.83,heavy,15,1.15,15.2,0.2,0
+2025,3,jebel_ali_gulf,Jebel Ali Gulf Route,0.9,0.81,light,15,1.15,14.2,-0.8,0
+2025,3,jebel_ali_gulf,Jebel Ali Gulf Route,0.9,0.57,heavy,15,1.15,17.7,2.7,0
+2025,3,jebel_ali_gulf,Jebel Ali Gulf Route,0.9,0.74,light,15,1.15,15.3,0.3,0
+2025,4,colombo_express,Colombo Express,0.95,0.8,light,17,1.0,19.0,2.0,0
+2025,4,colombo_express,Colombo Express,0.95,0.68,standard,17,1.0,15.8,-1.2,0
+2025,4,colombo_express,Colombo Express,0.95,0.83,standard,17,1.0,18.1,1.1,0
+2025,4,colombo_express,Colombo Express,0.95,0.89,standard,17,1.0,17.5,0.5,0
+2025,4,colombo_express,Colombo Express,0.95,0.86,light,17,1.0,17.5,0.5,0
+2025,4,colombo_express,Colombo Express,0.95,0.7,light,17,1.0,15.0,-2.0,0
+2025,4,singapore_transship,Singapore Transship,0.95,0.8,heavy,21,1.08,23.4,2.4,0
+2025,4,singapore_transship,Singapore Transship,0.95,0.82,light,21,1.08,23.0,2.0,0
+2025,4,singapore_transship,Singapore Transship,0.95,0.73,heavy,21,1.08,22.0,1.0,0
+2025,4,singapore_transship,Singapore Transship,0.95,0.74,light,21,1.08,19.5,-1.5,0
+2025,4,singapore_transship,Singapore Transship,0.95,0.85,light,21,1.08,21.3,0.3,0
+2025,4,singapore_transship,Singapore Transship,0.95,0.73,light,21,1.08,19.0,-2.0,0
+2025,4,port_klang_link,Port Klang Link,0.9,0.88,heavy,19,1.04,19.0,0.0,0
+2025,4,port_klang_link,Port Klang Link,0.9,0.63,light,19,1.04,18.8,-0.2,0
+2025,4,port_klang_link,Port Klang Link,0.9,0.67,light,19,1.04,19.9,0.9,0
+2025,4,port_klang_link,Port Klang Link,0.9,0.82,standard,19,1.04,19.8,0.8,0
+2025,4,port_klang_link,Port Klang Link,0.9,0.55,standard,19,1.04,21.5,2.5,0
+2025,4,port_klang_link,Port Klang Link,0.9,0.62,standard,19,1.04,20.7,1.7,0
+2025,4,jebel_ali_gulf,Jebel Ali Gulf Route,1.0,0.89,light,15,1.15,14.0,-1.0,0
+2025,4,jebel_ali_gulf,Jebel Ali Gulf Route,1.0,0.9,light,15,1.15,13.9,-1.1,0
+2025,4,jebel_ali_gulf,Jebel Ali Gulf Route,1.0,0.77,heavy,15,1.15,13.6,-1.4,0
+2025,4,jebel_ali_gulf,Jebel Ali Gulf Route,1.0,0.79,light,15,1.15,15.4,0.4,0
+2025,4,jebel_ali_gulf,Jebel Ali Gulf Route,1.0,0.87,heavy,15,1.15,16.3,1.3,0
+2025,4,jebel_ali_gulf,Jebel Ali Gulf Route,1.0,0.74,light,15,1.15,13.0,-2.0,0
+2025,5,colombo_express,Colombo Express,1.1,0.81,heavy,17,1.0,16.9,-0.1,0
+2025,5,colombo_express,Colombo Express,1.1,0.72,light,17,1.0,16.0,-1.0,0
+2025,5,colombo_express,Colombo Express,1.1,0.7,heavy,17,1.0,17.1,0.1,0
+2025,5,colombo_express,Colombo Express,1.1,0.57,heavy,17,1.0,20.5,3.5,0
+2025,5,colombo_express,Colombo Express,1.1,0.8,standard,17,1.0,16.5,-0.5,0
+2025,5,colombo_express,Colombo Express,1.1,0.71,heavy,17,1.0,16.6,-0.4,0
+2025,5,singapore_transship,Singapore Transship,0.9,0.9,heavy,21,1.08,22.6,1.6,0
+2025,5,singapore_transship,Singapore Transship,0.9,0.63,standard,21,1.08,23.3,2.3,0
+2025,5,singapore_transship,Singapore Transship,0.9,0.81,standard,21,1.08,22.4,1.4,0
+2025,5,singapore_transship,Singapore Transship,0.9,0.84,heavy,21,1.08,22.3,1.3,0
+2025,5,singapore_transship,Singapore Transship,0.9,0.67,heavy,21,1.08,20.1,-0.9,0
+2025,5,singapore_transship,Singapore Transship,0.9,0.71,light,21,1.08,20.5,-0.5,0
+2025,5,port_klang_link,Port Klang Link,0.9,0.91,light,19,1.04,18.7,-0.3,0
+2025,5,port_klang_link,Port Klang Link,0.9,0.83,standard,19,1.04,17.5,-1.5,0
+2025,5,port_klang_link,Port Klang Link,0.9,0.78,light,19,1.04,19.8,0.8,0
+2025,5,port_klang_link,Port Klang Link,0.9,0.9,heavy,19,1.04,18.9,-0.1,0
+2025,5,port_klang_link,Port Klang Link,0.9,0.88,heavy,19,1.04,20.0,1.0,0
+2025,5,port_klang_link,Port Klang Link,0.9,0.82,standard,19,1.04,20.3,1.3,0
+2025,5,jebel_ali_gulf,Jebel Ali Gulf Route,1.2,0.55,light,15,1.15,16.9,1.9,0
+2025,5,jebel_ali_gulf,Jebel Ali Gulf Route,1.2,0.68,standard,15,1.15,17.9,2.9,0
+2025,5,jebel_ali_gulf,Jebel Ali Gulf Route,1.2,0.57,standard,15,1.15,20.9,5.9,1
+2025,5,jebel_ali_gulf,Jebel Ali Gulf Route,1.2,0.85,standard,15,1.15,18.3,3.3,0
+2025,5,jebel_ali_gulf,Jebel Ali Gulf Route,1.2,0.63,heavy,15,1.15,20.2,5.2,1
+2025,5,jebel_ali_gulf,Jebel Ali Gulf Route,1.2,0.82,heavy,15,1.15,18.3,3.3,0
+2025,6,colombo_express,Colombo Express,1.4,0.7,standard,17,1.0,21.1,4.1,0
+2025,6,colombo_express,Colombo Express,1.4,0.58,light,17,1.0,21.4,4.4,0
+2025,6,colombo_express,Colombo Express,1.4,0.78,heavy,17,1.0,17.2,0.2,0
+2025,6,colombo_express,Colombo Express,1.4,0.65,standard,17,1.0,22.0,5.0,0
+2025,6,colombo_express,Colombo Express,1.4,0.83,heavy,17,1.0,22.7,5.7,1
+2025,6,colombo_express,Colombo Express,1.4,0.64,light,17,1.0,22.4,5.4,1
+2025,6,singapore_transship,Singapore Transship,0.95,0.88,light,21,1.08,21.9,0.9,0
+2025,6,singapore_transship,Singapore Transship,0.95,0.63,light,21,1.08,19.5,-1.5,0
+2025,6,singapore_transship,Singapore Transship,0.95,0.63,standard,21,1.08,20.8,-0.2,0
+2025,6,singapore_transship,Singapore Transship,0.95,0.74,light,21,1.08,19.7,-1.3,0
+2025,6,singapore_transship,Singapore Transship,0.95,0.59,heavy,21,1.08,22.2,1.2,0
+2025,6,singapore_transship,Singapore Transship,0.95,0.91,light,21,1.08,20.8,-0.2,0
+2025,6,port_klang_link,Port Klang Link,0.95,0.7,light,19,1.04,23.5,4.5,0
+2025,6,port_klang_link,Port Klang Link,0.95,0.87,light,19,1.04,18.5,-0.5,0
+2025,6,port_klang_link,Port Klang Link,0.95,0.64,heavy,19,1.04,20.9,1.9,0
+2025,6,port_klang_link,Port Klang Link,0.95,0.85,light,19,1.04,18.9,-0.1,0
+2025,6,port_klang_link,Port Klang Link,0.95,0.79,standard,19,1.04,20.5,1.5,0
+2025,6,port_klang_link,Port Klang Link,0.95,0.83,light,19,1.04,19.9,0.9,0
+2025,6,jebel_ali_gulf,Jebel Ali Gulf Route,1.45,0.71,standard,15,1.15,22.7,7.7,1
+2025,6,jebel_ali_gulf,Jebel Ali Gulf Route,1.45,0.76,standard,15,1.15,19.4,4.4,0
+2025,6,jebel_ali_gulf,Jebel Ali Gulf Route,1.45,0.68,standard,15,1.15,22.3,7.3,1
+2025,6,jebel_ali_gulf,Jebel Ali Gulf Route,1.45,0.72,light,15,1.15,18.4,3.4,0
+2025,6,jebel_ali_gulf,Jebel Ali Gulf Route,1.45,0.79,standard,15,1.15,20.8,5.8,1
+2025,6,jebel_ali_gulf,Jebel Ali Gulf Route,1.45,0.74,light,15,1.15,18.0,3.0,0
+2025,7,colombo_express,Colombo Express,1.5,0.9,light,17,1.0,23.2,6.2,1
+2025,7,colombo_express,Colombo Express,1.5,0.55,standard,17,1.0,24.1,7.1,1
+2025,7,colombo_express,Colombo Express,1.5,0.67,standard,17,1.0,21.4,4.4,0
+2025,7,colombo_express,Colombo Express,1.5,0.62,light,17,1.0,23.4,6.4,1
+2025,7,colombo_express,Colombo Express,1.5,0.84,standard,17,1.0,23.4,6.4,1
+2025,7,colombo_express,Colombo Express,1.5,0.62,standard,17,1.0,22.6,5.6,1
+2025,7,singapore_transship,Singapore Transship,1.0,0.73,light,21,1.08,22.6,1.6,0
+2025,7,singapore_transship,Singapore Transship,1.0,0.89,light,21,1.08,21.6,0.6,0
+2025,7,singapore_transship,Singapore Transship,1.0,0.79,light,21,1.08,21.3,0.3,0
+2025,7,singapore_transship,Singapore Transship,1.0,0.84,light,21,1.08,19.0,-2.0,0
+2025,7,singapore_transship,Singapore Transship,1.0,0.75,light,21,1.08,20.1,-0.9,0
+2025,7,singapore_transship,Singapore Transship,1.0,0.85,light,21,1.08,21.1,0.1,0
+2025,7,port_klang_link,Port Klang Link,0.95,0.73,light,19,1.04,18.1,-0.9,0
+2025,7,port_klang_link,Port Klang Link,0.95,0.71,heavy,19,1.04,20.4,1.4,0
+2025,7,port_klang_link,Port Klang Link,0.95,0.62,standard,19,1.04,17.3,-1.7,0
+2025,7,port_klang_link,Port Klang Link,0.95,0.71,heavy,19,1.04,19.8,0.8,0
+2025,7,port_klang_link,Port Klang Link,0.95,0.66,light,19,1.04,18.3,-0.7,0
+2025,7,port_klang_link,Port Klang Link,0.95,0.59,light,19,1.04,17.0,-2.0,0
+2025,7,jebel_ali_gulf,Jebel Ali Gulf Route,1.55,0.84,light,15,1.15,22.8,7.8,1
+2025,7,jebel_ali_gulf,Jebel Ali Gulf Route,1.55,0.79,light,15,1.15,21.3,6.3,1
+2025,7,jebel_ali_gulf,Jebel Ali Gulf Route,1.55,0.85,light,15,1.15,18.4,3.4,0
+2025,7,jebel_ali_gulf,Jebel Ali Gulf Route,1.55,0.69,light,15,1.15,20.5,5.5,1
+2025,7,jebel_ali_gulf,Jebel Ali Gulf Route,1.55,0.77,heavy,15,1.15,19.7,4.7,0
+2025,7,jebel_ali_gulf,Jebel Ali Gulf Route,1.55,0.62,heavy,15,1.15,23.9,8.9,1
+2025,8,colombo_express,Colombo Express,1.45,0.67,standard,17,1.0,21.3,4.3,0
+2025,8,colombo_express,Colombo Express,1.45,0.71,standard,17,1.0,21.1,4.1,0
+2025,8,colombo_express,Colombo Express,1.45,0.81,light,17,1.0,21.5,4.5,0
+2025,8,colombo_express,Colombo Express,1.45,0.82,heavy,17,1.0,20.6,3.6,0
+2025,8,colombo_express,Colombo Express,1.45,0.69,standard,17,1.0,23.4,6.4,1
+2025,8,colombo_express,Colombo Express,1.45,0.92,heavy,17,1.0,23.0,6.0,1
+2025,8,singapore_transship,Singapore Transship,1.0,0.82,standard,21,1.08,20.6,-0.4,0
+2025,8,singapore_transship,Singapore Transship,1.0,0.72,heavy,21,1.08,22.8,1.8,0
+2025,8,singapore_transship,Singapore Transship,1.0,0.74,heavy,21,1.08,22.3,1.3,0
+2025,8,singapore_transship,Singapore Transship,1.0,0.74,standard,21,1.08,19.7,-1.3,0
+2025,8,singapore_transship,Singapore Transship,1.0,0.65,standard,21,1.08,22.3,1.3,0
+2025,8,singapore_transship,Singapore Transship,1.0,0.9,standard,21,1.08,20.9,-0.1,0
+2025,8,port_klang_link,Port Klang Link,0.95,0.8,heavy,19,1.04,18.4,-0.6,0
+2025,8,port_klang_link,Port Klang Link,0.95,0.65,heavy,19,1.04,20.1,1.1,0
+2025,8,port_klang_link,Port Klang Link,0.95,0.75,light,19,1.04,19.8,0.8,0
+2025,8,port_klang_link,Port Klang Link,0.95,0.88,heavy,19,1.04,20.4,1.4,0
+2025,8,port_klang_link,Port Klang Link,0.95,0.64,heavy,19,1.04,22.3,3.3,0
+2025,8,port_klang_link,Port Klang Link,0.95,0.8,heavy,19,1.04,20.1,1.1,0
+2025,8,jebel_ali_gulf,Jebel Ali Gulf Route,1.5,0.83,light,15,1.15,21.2,6.2,1
+2025,8,jebel_ali_gulf,Jebel Ali Gulf Route,1.5,0.82,standard,15,1.15,18.3,3.3,0
+2025,8,jebel_ali_gulf,Jebel Ali Gulf Route,1.5,0.9,heavy,15,1.15,20.7,5.7,1
+2025,8,jebel_ali_gulf,Jebel Ali Gulf Route,1.5,0.81,light,15,1.15,19.9,4.9,0
+2025,8,jebel_ali_gulf,Jebel Ali Gulf Route,1.5,0.6,standard,15,1.15,18.1,3.1,0
+2025,8,jebel_ali_gulf,Jebel Ali Gulf Route,1.5,0.73,heavy,15,1.15,22.1,7.1,1
+2025,9,colombo_express,Colombo Express,1.3,0.57,light,17,1.0,22.3,5.3,1
+2025,9,colombo_express,Colombo Express,1.3,0.86,heavy,17,1.0,23.5,6.5,1
+2025,9,colombo_express,Colombo Express,1.3,0.63,heavy,17,1.0,21.3,4.3,0
+2025,9,colombo_express,Colombo Express,1.3,0.66,light,17,1.0,18.9,1.9,0
+2025,9,colombo_express,Colombo Express,1.3,0.6,standard,17,1.0,20.7,3.7,0
+2025,9,colombo_express,Colombo Express,1.3,0.65,standard,17,1.0,22.8,5.8,1
+2025,9,singapore_transship,Singapore Transship,1.0,0.68,standard,21,1.08,24.5,3.5,0
+2025,9,singapore_transship,Singapore Transship,1.0,0.64,standard,21,1.08,20.6,-0.4,0
+2025,9,singapore_transship,Singapore Transship,1.0,0.89,heavy,21,1.08,19.7,-1.3,0
+2025,9,singapore_transship,Singapore Transship,1.0,0.91,standard,21,1.08,19.0,-2.0,0
+2025,9,singapore_transship,Singapore Transship,1.0,0.63,standard,21,1.08,20.9,-0.1,0
+2025,9,singapore_transship,Singapore Transship,1.0,0.61,light,21,1.08,19.0,-2.0,0
+2025,9,port_klang_link,Port Klang Link,0.95,0.58,standard,19,1.04,20.6,1.6,0
+2025,9,port_klang_link,Port Klang Link,0.95,0.65,heavy,19,1.04,19.8,0.8,0
+2025,9,port_klang_link,Port Klang Link,0.95,0.56,light,19,1.04,19.1,0.1,0
+2025,9,port_klang_link,Port Klang Link,0.95,0.9,heavy,19,1.04,20.6,1.6,0
+2025,9,port_klang_link,Port Klang Link,0.95,0.69,heavy,19,1.04,21.2,2.2,0
+2025,9,port_klang_link,Port Klang Link,0.95,0.67,standard,19,1.04,18.7,-0.3,0
+2025,9,jebel_ali_gulf,Jebel Ali Gulf Route,1.2,0.58,light,15,1.15,14.5,-0.5,0
+2025,9,jebel_ali_gulf,Jebel Ali Gulf Route,1.2,0.68,light,15,1.15,18.2,3.2,0
+2025,9,jebel_ali_gulf,Jebel Ali Gulf Route,1.2,0.63,standard,15,1.15,18.5,3.5,0
+2025,9,jebel_ali_gulf,Jebel Ali Gulf Route,1.2,0.84,heavy,15,1.15,16.1,1.1,0
+2025,9,jebel_ali_gulf,Jebel Ali Gulf Route,1.2,0.78,light,15,1.15,17.8,2.8,0
+2025,9,jebel_ali_gulf,Jebel Ali Gulf Route,1.2,0.91,heavy,15,1.15,19.0,4.0,0
+2025,10,colombo_express,Colombo Express,1.05,0.81,standard,17,1.0,17.2,0.2,0
+2025,10,colombo_express,Colombo Express,1.05,0.9,heavy,17,1.0,18.1,1.1,0
+2025,10,colombo_express,Colombo Express,1.05,0.6,light,17,1.0,15.0,-2.0,0
+2025,10,colombo_express,Colombo Express,1.05,0.79,standard,17,1.0,17.2,0.2,0
+2025,10,colombo_express,Colombo Express,1.05,0.66,heavy,17,1.0,22.1,5.1,1
+2025,10,colombo_express,Colombo Express,1.05,0.69,standard,17,1.0,16.5,-0.5,0
+2025,10,singapore_transship,Singapore Transship,1.05,0.87,light,21,1.08,23.1,2.1,0
+2025,10,singapore_transship,Singapore Transship,1.05,0.78,light,21,1.08,19.0,-2.0,0
+2025,10,singapore_transship,Singapore Transship,1.05,0.62,light,21,1.08,20.4,-0.6,0
+2025,10,singapore_transship,Singapore Transship,1.05,0.69,standard,21,1.08,22.8,1.8,0
+2025,10,singapore_transship,Singapore Transship,1.05,0.65,light,21,1.08,21.8,0.8,0
+2025,10,singapore_transship,Singapore Transship,1.05,0.69,light,21,1.08,21.1,0.1,0
+2025,10,port_klang_link,Port Klang Link,1.0,0.84,heavy,19,1.04,19.2,0.2,0
+2025,10,port_klang_link,Port Klang Link,1.0,0.81,heavy,19,1.04,20.0,1.0,0
+2025,10,port_klang_link,Port Klang Link,1.0,0.59,light,19,1.04,20.6,1.6,0
+2025,10,port_klang_link,Port Klang Link,1.0,0.65,standard,19,1.04,22.0,3.0,0
+2025,10,port_klang_link,Port Klang Link,1.0,0.84,light,19,1.04,17.0,-2.0,0
+2025,10,port_klang_link,Port Klang Link,1.0,0.6,light,19,1.04,20.3,1.3,0
+2025,10,jebel_ali_gulf,Jebel Ali Gulf Route,0.95,0.8,standard,15,1.15,13.7,-1.3,0
+2025,10,jebel_ali_gulf,Jebel Ali Gulf Route,0.95,0.62,heavy,15,1.15,20.6,5.6,1
+2025,10,jebel_ali_gulf,Jebel Ali Gulf Route,0.95,0.68,light,15,1.15,15.0,0.0,0
+2025,10,jebel_ali_gulf,Jebel Ali Gulf Route,0.95,0.7,standard,15,1.15,20.6,5.6,1
+2025,10,jebel_ali_gulf,Jebel Ali Gulf Route,0.95,0.74,light,15,1.15,16.1,1.1,0
+2025,10,jebel_ali_gulf,Jebel Ali Gulf Route,0.95,0.68,standard,15,1.15,16.3,1.3,0
+2025,11,colombo_express,Colombo Express,1.35,0.71,heavy,17,1.0,21.1,4.1,0
+2025,11,colombo_express,Colombo Express,1.35,0.87,standard,17,1.0,19.8,2.8,0
+2025,11,colombo_express,Colombo Express,1.35,0.58,standard,17,1.0,17.5,0.5,0
+2025,11,colombo_express,Colombo Express,1.35,0.66,standard,17,1.0,21.7,4.7,0
+2025,11,colombo_express,Colombo Express,1.35,0.86,light,17,1.0,21.3,4.3,0
+2025,11,colombo_express,Colombo Express,1.35,0.9,standard,17,1.0,21.8,4.8,0
+2025,11,singapore_transship,Singapore Transship,1.1,0.79,heavy,21,1.08,23.9,2.9,0
+2025,11,singapore_transship,Singapore Transship,1.1,0.6,standard,21,1.08,23.2,2.2,0
+2025,11,singapore_transship,Singapore Transship,1.1,0.72,light,21,1.08,22.8,1.8,0
+2025,11,singapore_transship,Singapore Transship,1.1,0.57,light,21,1.08,22.2,1.2,0
+2025,11,singapore_transship,Singapore Transship,1.1,0.55,standard,21,1.08,24.4,3.4,0
+2025,11,singapore_transship,Singapore Transship,1.1,0.86,light,21,1.08,23.9,2.9,0
+2025,11,port_klang_link,Port Klang Link,1.05,0.67,light,19,1.04,21.0,2.0,0
+2025,11,port_klang_link,Port Klang Link,1.05,0.73,standard,19,1.04,19.8,0.8,0
+2025,11,port_klang_link,Port Klang Link,1.05,0.81,standard,19,1.04,21.2,2.2,0
+2025,11,port_klang_link,Port Klang Link,1.05,0.87,standard,19,1.04,19.4,0.4,0
+2025,11,port_klang_link,Port Klang Link,1.05,0.89,light,19,1.04,17.0,-2.0,0
+2025,11,port_klang_link,Port Klang Link,1.05,0.65,light,19,1.04,21.0,2.0,0
+2025,11,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.71,standard,15,1.15,13.0,-2.0,0
+2025,11,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.78,heavy,15,1.15,16.1,1.1,0
+2025,11,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.81,heavy,15,1.15,15.4,0.4,0
+2025,11,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.88,heavy,15,1.15,14.2,-0.8,0
+2025,11,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.64,heavy,15,1.15,18.5,3.5,0
+2025,11,jebel_ali_gulf,Jebel Ali Gulf Route,0.85,0.91,heavy,15,1.15,14.4,-0.6,0
+2025,12,colombo_express,Colombo Express,1.4,0.76,standard,17,1.0,23.7,6.7,1
+2025,12,colombo_express,Colombo Express,1.4,0.7,standard,17,1.0,21.7,4.7,0
+2025,12,colombo_express,Colombo Express,1.4,0.83,heavy,17,1.0,22.0,5.0,0
+2025,12,colombo_express,Colombo Express,1.4,0.68,standard,17,1.0,22.0,5.0,0
+2025,12,colombo_express,Colombo Express,1.4,0.59,standard,17,1.0,19.7,2.7,0
+2025,12,colombo_express,Colombo Express,1.4,0.64,heavy,17,1.0,21.9,4.9,0
+2025,12,singapore_transship,Singapore Transship,1.15,0.61,heavy,21,1.08,22.6,1.6,0
+2025,12,singapore_transship,Singapore Transship,1.15,0.74,heavy,21,1.08,27.2,6.2,1
+2025,12,singapore_transship,Singapore Transship,1.15,0.68,light,21,1.08,19.3,-1.7,0
+2025,12,singapore_transship,Singapore Transship,1.15,0.84,heavy,21,1.08,25.6,4.6,0
+2025,12,singapore_transship,Singapore Transship,1.15,0.79,heavy,21,1.08,22.0,1.0,0
+2025,12,singapore_transship,Singapore Transship,1.15,0.69,heavy,21,1.08,26.4,5.4,1
+2025,12,port_klang_link,Port Klang Link,1.1,0.69,light,19,1.04,19.2,0.2,0
+2025,12,port_klang_link,Port Klang Link,1.1,0.75,standard,19,1.04,20.7,1.7,0
+2025,12,port_klang_link,Port Klang Link,1.1,0.56,heavy,19,1.04,17.4,-1.6,0
+2025,12,port_klang_link,Port Klang Link,1.1,0.79,standard,19,1.04,19.5,0.5,0
+2025,12,port_klang_link,Port Klang Link,1.1,0.65,standard,19,1.04,19.7,0.7,0
+2025,12,port_klang_link,Port Klang Link,1.1,0.86,light,19,1.04,18.9,-0.1,0
+2025,12,jebel_ali_gulf,Jebel Ali Gulf Route,0.9,0.87,light,15,1.15,15.4,0.4,0
+2025,12,jebel_ali_gulf,Jebel Ali Gulf Route,0.9,0.77,standard,15,1.15,15.3,0.3,0
+2025,12,jebel_ali_gulf,Jebel Ali Gulf Route,0.9,0.87,light,15,1.15,14.4,-0.6,0
+2025,12,jebel_ali_gulf,Jebel Ali Gulf Route,0.9,0.77,light,15,1.15,15.1,0.1,0
+2025,12,jebel_ali_gulf,Jebel Ali Gulf Route,0.9,0.56,light,15,1.15,16.9,1.9,0
+2025,12,jebel_ali_gulf,Jebel Ali Gulf Route,0.9,0.85,heavy,15,1.15,17.6,2.6,0
