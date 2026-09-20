@@ -1,16 +1,12 @@
-# Voyage Control — Supply Chain Risk & Route Intelligence Dashboard
+# Voyage Control — A Supply Chain Risk & Route Intelligence Dashboard
 
 A self-contained, single-file dashboard that scores inbound shipment risk, predicts
-route delays with a cross-validated ML model, and optimizes freight routing — plus a
+route delays with a cross-validated ML model, and optimizes freight routing with a
 self-service layer so **anyone** can drop in their own Excel data and get a refreshed
 dashboard, no coding required.
 
 **[▶ Live demo](#)** — replace with your GitHub Pages link once published (see below)
 
-![dashboard preview](docs/preview.png)
-<!-- swap in a real screenshot or GIF at docs/preview.png -->
-
----
 
 ## What it does
 
