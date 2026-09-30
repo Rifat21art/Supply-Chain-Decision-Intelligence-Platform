@@ -5,7 +5,7 @@ route delays with a cross-validated ML model, and optimizes freight routing with
 self-service layer so **anyone** can drop in their own Excel data and get a refreshed
 dashboard, no coding required.
 
-**[▶ Live demo](#)** — replace with your GitHub Pages link once published (see below)
+**[▶ https://rifat21art.github.io/Supply-Chain-Decision-Intelligence-Platform/** — replace with your GitHub Pages link once published (see below)
 
 
 ## What it does
