@@ -1,4 +1,4 @@
-# Voyage Control — A Supply Chain Risk & Route Intelligence Dashboard
+# Voyage Control: A Supply Chain Risk & Route Intelligence Dashboard
 
 A self-contained, single-file dashboard that scores inbound shipment risk, predicts
 route delays with a cross-validated ML model, and optimizes freight routing with a
